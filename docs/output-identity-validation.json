@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "carriers": 8,
+      "ends": 1,
+      "vertices_compared": 5568,
+      "maximum_float32_position_error_mm": 0.000007170919960099689
+    },
+    {
+      "carriers": 12,
+      "ends": 1,
+      "vertices_compared": 18720,
+      "maximum_float32_position_error_mm": 0.000013773756078657741
+    },
+    {
+      "carriers": 16,
+      "ends": 1,
+      "vertices_compared": 33280,
+      "maximum_float32_position_error_mm": 0.000012921258245086506
+    },
+    {
+      "carriers": 48,
+      "ends": 1,
+      "vertices_compared": 33984,
+      "maximum_float32_position_error_mm": 0.000003831714777660141
+    },
+    {
+      "carriers": 48,
+      "ends": 4,
+      "vertices_compared": 135936,
+      "maximum_float32_position_error_mm": 0.0000039554700722182486
+    },
+    {
+      "carriers": 48,
+      "ends": 8,
+      "vertices_compared": 271872,
+      "maximum_float32_position_error_mm": 0.0000039554700722182486
+    },
+    {
+      "carriers": 72,
+      "ends": 1,
+      "vertices_compared": 76608,
+      "maximum_float32_position_error_mm": 0.0000064005268159227945
+    },
+    {
+      "carriers": 72,
+      "ends": 4,
+      "vertices_compared": 306432,
+      "maximum_float32_position_error_mm": 0.000006399498724045031
+    },
+    {
+      "carriers": 72,
+      "ends": 8,
+      "vertices_compared": 612864,
+      "maximum_float32_position_error_mm": 0.000006470479100077528
+    }
+  ],
+  "scope": "Actual instanced cell/sector attributes and carrier texture compared with the identified wire’s material-history path. Includes every output tile and all wire ends. Browser compilation, seams and camera culling are checked separately."
+}

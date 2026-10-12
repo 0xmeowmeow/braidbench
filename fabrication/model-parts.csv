@@ -1,0 +1,115 @@
+configuration,part,model_quantity,process,notes
+8,base-8,1,laser,8-strand base; 6 mm birch plywood; 420 × 380 mm.
+8,guide-standoff,4,hardware,"70 mm M3 guide-island standoff, 6 mm outside diameter; flush countersunk top fastener. Four support the central stationary island."
+8,track-study-8,1,experimental,Nominal circular-slot study with separate axle-supported islands. Carrier branch selection at handoffs is unresolved; not released for powered use.
+8,rotor-8-01,1,experimental,Module 2 / 40 teeth rotor 1; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 8-strand study; loading not validated.
+8,M8-axle,4,hardware,Stationary 8 mm axle; use smooth bearing seats and end retention.
+8,axle-spacer,4,printed,32 mm axle spacer below lower bearing; check axial stack.
+8,608-bearing,10,hardware,"608-2RS bearing, 8 × 22 × 7 mm; purchased."
+8,bearing-inner-spacer-10,4,hardware,"10 mm metal inner-race spacer, 12 mm OD / 8.2 mm bore; keeps bearing inner races clamped while rotor spins."
+8,bearing-inner-spacer-12,4,hardware,"12 mm metal inner-race spacer, 12 mm OD / 8.2 mm bore; keeps bearing inner races clamped while rotor spins."
+8,M8-nut,28,hardware,M8 nut envelope; threads omitted.
+8,carrier-body,8,experimental,"Provisional carrier: 4.8 mm track neck, 8 mm horn pin, 12 mm retaining disk. Single-pin geometry does not yet guarantee track selection."
+8,spindle-adapter,8,printed,Bonded M3/M6 stud adapter prototype; check concentricity and retention.
+8,bobbin-spindle,8,hardware,M6 smooth-shank spindle; carrier mounting requires M3-to-M6 stud adapter shown.
+8,bobbin,8,printed,26 mm flange diameter; 42 mm height; 6.4 mm spindle bore. Print with support under upper flange or split and glue.
+8,yarn-package,8,yarn,Illustrative yarn package; not a fabricated part.
+8,tension-washer,8,hardware,Felt friction washer; spring + nut set bobbin drag. No active tension regulation.
+8,spring-envelope,8,hardware,Compression spring envelope (not a printable spring).
+8,yarn-guide-arm,8,experimental,"3 mm cantilever for trailing guide post, resting on carrier body. Prototype joint needs positive fastener and stiffness qualification."
+8,yarn-eye-post,8,experimental,"Offset 58 mm post with open yarn approach, mounted 17 mm behind carrier tangent. Guide support and fasteners remain prototype details."
+8,rotor-8-02,1,experimental,Module 2 / 40 teeth rotor 2; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 8-strand study; loading not validated.
+8,rotor-8-03,1,experimental,Module 2 / 40 teeth rotor 3; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 8-strand study; loading not validated.
+8,rotor-8-04,1,experimental,Module 2 / 40 teeth rotor 4; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 8-strand study; loading not validated.
+8,M8-mast,4,hardware,"M8 threaded rod, cut to 500 mm; nuts below and above each plate."
+8,foot,4,printed,Foot for M8 mast; TPU or PETG with rubber pad.
+8,NEMA17,2,hardware,"Reference NEMA17: 42 mm body, 31 mm bolt pattern, 5 mm shaft. Check purchased motor drawing."
+8,motor-riser,1,laser,Drive motor mounting plate; four 34 mm M4 standoffs from base top.
+8,drive-pinion,1,printed,20-tooth module-2 pinion; 5.2 mm bore; drill/tap radial M3 grub screw.
+8,forming-guide,1,laser,Forming guide support; insert a smooth ceramic eye or PTFE bush. 12 mm clearance hole.
+8,upper-frame,1,laser,"Upper frame, 6 mm plywood."
+8,takeup-bridge,1,laser,"Take-up bridge, 6 mm plywood; central yarn clearance."
+8,takeup-face,1,laser,Vertical take-up face: 31 mm NEMA17 pattern; adjustable 8 mm idler axle slot. Requires two angle brackets.
+8,capstan,1,printed,"40 mm nominal roller, add thin silicone sleeve and measure effective diameter; radial M3 grub screw."
+8,idler,1,printed,36 mm idler with two 608 bearings. Adjustable nip via horizontal mounting slot.
+8,electronics-tray,1,printed,Open electronics tray. Drill board-specific mounting and cable holes; add lid before operation.
+8,esp32,1,electronics,"ESP32-WROOM DevKit reference envelope, not a PCB design."
+8,driver,2,electronics,DRV8825 carrier + heatsink envelope.
+12,base-12,1,laser,12-strand base; 6 mm birch plywood; 420 × 380 mm.
+12,guide-standoff,4,hardware,"70 mm M3 guide-island standoff, 6 mm outside diameter; flush countersunk top fastener. Four support the central stationary island."
+12,track-study-12,1,experimental,Nominal circular-slot study with separate axle-supported islands. Carrier branch selection at handoffs is unresolved; not released for powered use.
+12,rotor-12-01,1,experimental,Module 2 / 40 teeth rotor 1; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 12-strand study; loading not validated.
+12,M8-axle,6,hardware,Stationary 8 mm axle; use smooth bearing seats and end retention.
+12,axle-spacer,6,printed,32 mm axle spacer below lower bearing; check axial stack.
+12,608-bearing,14,hardware,"608-2RS bearing, 8 × 22 × 7 mm; purchased."
+12,bearing-inner-spacer-10,6,hardware,"10 mm metal inner-race spacer, 12 mm OD / 8.2 mm bore; keeps bearing inner races clamped while rotor spins."
+12,bearing-inner-spacer-12,6,hardware,"12 mm metal inner-race spacer, 12 mm OD / 8.2 mm bore; keeps bearing inner races clamped while rotor spins."
+12,M8-nut,30,hardware,M8 nut envelope; threads omitted.
+12,carrier-body,12,experimental,"Provisional carrier: 4.8 mm track neck, 8 mm horn pin, 12 mm retaining disk. Single-pin geometry does not yet guarantee track selection."
+12,spindle-adapter,12,printed,Bonded M3/M6 stud adapter prototype; check concentricity and retention.
+12,bobbin-spindle,12,hardware,M6 smooth-shank spindle; carrier mounting requires M3-to-M6 stud adapter shown.
+12,bobbin,12,printed,26 mm flange diameter; 42 mm height; 6.4 mm spindle bore. Print with support under upper flange or split and glue.
+12,yarn-package,12,yarn,Illustrative yarn package; not a fabricated part.
+12,tension-washer,12,hardware,Felt friction washer; spring + nut set bobbin drag. No active tension regulation.
+12,spring-envelope,12,hardware,Compression spring envelope (not a printable spring).
+12,yarn-guide-arm,12,experimental,"3 mm cantilever for trailing guide post, resting on carrier body. Prototype joint needs positive fastener and stiffness qualification."
+12,yarn-eye-post,12,experimental,"Offset 58 mm post with open yarn approach, mounted 17 mm behind carrier tangent. Guide support and fasteners remain prototype details."
+12,rotor-12-02,1,experimental,Module 2 / 40 teeth rotor 2; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 12-strand study; loading not validated.
+12,rotor-12-03,1,experimental,Module 2 / 40 teeth rotor 3; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 12-strand study; loading not validated.
+12,rotor-12-04,1,experimental,Module 2 / 40 teeth rotor 4; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 12-strand study; loading not validated.
+12,rotor-12-05,1,experimental,Module 2 / 40 teeth rotor 5; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 12-strand study; loading not validated.
+12,rotor-12-06,1,experimental,Module 2 / 40 teeth rotor 6; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 12-strand study; loading not validated.
+12,M8-mast,4,hardware,"M8 threaded rod, cut to 500 mm; nuts below and above each plate."
+12,foot,4,printed,Foot for M8 mast; TPU or PETG with rubber pad.
+12,NEMA17,2,hardware,"Reference NEMA17: 42 mm body, 31 mm bolt pattern, 5 mm shaft. Check purchased motor drawing."
+12,motor-riser,1,laser,Drive motor mounting plate; four 34 mm M4 standoffs from base top.
+12,drive-pinion,1,printed,20-tooth module-2 pinion; 5.2 mm bore; drill/tap radial M3 grub screw.
+12,forming-guide,1,laser,Forming guide support; insert a smooth ceramic eye or PTFE bush. 12 mm clearance hole.
+12,upper-frame,1,laser,"Upper frame, 6 mm plywood."
+12,takeup-bridge,1,laser,"Take-up bridge, 6 mm plywood; central yarn clearance."
+12,takeup-face,1,laser,Vertical take-up face: 31 mm NEMA17 pattern; adjustable 8 mm idler axle slot. Requires two angle brackets.
+12,capstan,1,printed,"40 mm nominal roller, add thin silicone sleeve and measure effective diameter; radial M3 grub screw."
+12,idler,1,printed,36 mm idler with two 608 bearings. Adjustable nip via horizontal mounting slot.
+12,electronics-tray,1,printed,Open electronics tray. Drill board-specific mounting and cable holes; add lid before operation.
+12,esp32,1,electronics,"ESP32-WROOM DevKit reference envelope, not a PCB design."
+12,driver,2,electronics,DRV8825 carrier + heatsink envelope.
+16,base-16,1,laser,16-strand base; 6 mm birch plywood; 420 × 380 mm.
+16,guide-standoff,4,hardware,"70 mm M3 guide-island standoff, 6 mm outside diameter; flush countersunk top fastener. Four support the central stationary island."
+16,track-study-16,1,experimental,Nominal circular-slot study with separate axle-supported islands. Carrier branch selection at handoffs is unresolved; not released for powered use.
+16,rotor-16-01,1,experimental,Module 2 / 40 teeth rotor 1; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,M8-axle,8,hardware,Stationary 8 mm axle; use smooth bearing seats and end retention.
+16,axle-spacer,8,printed,32 mm axle spacer below lower bearing; check axial stack.
+16,608-bearing,18,hardware,"608-2RS bearing, 8 × 22 × 7 mm; purchased."
+16,bearing-inner-spacer-10,8,hardware,"10 mm metal inner-race spacer, 12 mm OD / 8.2 mm bore; keeps bearing inner races clamped while rotor spins."
+16,bearing-inner-spacer-12,8,hardware,"12 mm metal inner-race spacer, 12 mm OD / 8.2 mm bore; keeps bearing inner races clamped while rotor spins."
+16,M8-nut,32,hardware,M8 nut envelope; threads omitted.
+16,carrier-body,16,experimental,"Provisional carrier: 4.8 mm track neck, 8 mm horn pin, 12 mm retaining disk. Single-pin geometry does not yet guarantee track selection."
+16,spindle-adapter,16,printed,Bonded M3/M6 stud adapter prototype; check concentricity and retention.
+16,bobbin-spindle,16,hardware,M6 smooth-shank spindle; carrier mounting requires M3-to-M6 stud adapter shown.
+16,bobbin,16,printed,26 mm flange diameter; 42 mm height; 6.4 mm spindle bore. Print with support under upper flange or split and glue.
+16,yarn-package,16,yarn,Illustrative yarn package; not a fabricated part.
+16,tension-washer,16,hardware,Felt friction washer; spring + nut set bobbin drag. No active tension regulation.
+16,spring-envelope,16,hardware,Compression spring envelope (not a printable spring).
+16,yarn-guide-arm,16,experimental,"3 mm cantilever for trailing guide post, resting on carrier body. Prototype joint needs positive fastener and stiffness qualification."
+16,yarn-eye-post,16,experimental,"Offset 58 mm post with open yarn approach, mounted 17 mm behind carrier tangent. Guide support and fasteners remain prototype details."
+16,rotor-16-02,1,experimental,Module 2 / 40 teeth rotor 2; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,rotor-16-03,1,experimental,Module 2 / 40 teeth rotor 3; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,rotor-16-04,1,experimental,Module 2 / 40 teeth rotor 4; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,rotor-16-05,1,experimental,Module 2 / 40 teeth rotor 5; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,rotor-16-06,1,experimental,Module 2 / 40 teeth rotor 6; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,rotor-16-07,1,experimental,Module 2 / 40 teeth rotor 7; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,rotor-16-08,1,experimental,Module 2 / 40 teeth rotor 8; integral four-horn disk and two 608 seats. Individual gear/horn phasing for 16-strand study; loading not validated.
+16,M8-mast,4,hardware,"M8 threaded rod, cut to 500 mm; nuts below and above each plate."
+16,foot,4,printed,Foot for M8 mast; TPU or PETG with rubber pad.
+16,NEMA17,2,hardware,"Reference NEMA17: 42 mm body, 31 mm bolt pattern, 5 mm shaft. Check purchased motor drawing."
+16,motor-riser,1,laser,Drive motor mounting plate; four 34 mm M4 standoffs from base top.
+16,drive-pinion,1,printed,20-tooth module-2 pinion; 5.2 mm bore; drill/tap radial M3 grub screw.
+16,forming-guide,1,laser,Forming guide support; insert a smooth ceramic eye or PTFE bush. 12 mm clearance hole.
+16,upper-frame,1,laser,"Upper frame, 6 mm plywood."
+16,takeup-bridge,1,laser,"Take-up bridge, 6 mm plywood; central yarn clearance."
+16,takeup-face,1,laser,Vertical take-up face: 31 mm NEMA17 pattern; adjustable 8 mm idler axle slot. Requires two angle brackets.
+16,capstan,1,printed,"40 mm nominal roller, add thin silicone sleeve and measure effective diameter; radial M3 grub screw."
+16,idler,1,printed,36 mm idler with two 608 bearings. Adjustable nip via horizontal mounting slot.
+16,electronics-tray,1,printed,Open electronics tray. Drill board-specific mounting and cable holes; add lid before operation.
+16,esp32,1,electronics,"ESP32-WROOM DevKit reference envelope, not a PCB design."
+16,driver,2,electronics,DRV8825 carrier + heatsink envelope.

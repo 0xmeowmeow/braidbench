@@ -1,0 +1,13 @@
+{
+  "carriers": 48,
+  "ends_per_carrier": 4,
+  "topology": "Every carrier retains the original cyclic crossing partners and outside/inside order",
+  "clearance": {
+    "minimum_segment_distance_mm": 0.16797073901354653,
+    "minimum_surface_clearance_mm": 0.00797073901354653,
+    "minimum_surface_radius_mm": 14.003903319517134,
+    "segments_per_cell": 24576,
+    "candidate_pairs_checked": 151512
+  },
+  "limits": "Geometric checks on reconstructed output; not calibrated forces, torsion, friction or hardware validation. Formation approaches require their own check."
+}

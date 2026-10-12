@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "carriers": 8,
+      "diameter_mm": 0.45,
+      "maximum_stored_slack_mm": 20.287083409095207,
+      "overlap_mm3": {
+        "yarn-eye-post": 0.0,
+        "yarn-guide-arm": 0,
+        "bobbin": 0.0
+      }
+    },
+    {
+      "carriers": 12,
+      "diameter_mm": 0.45,
+      "maximum_stored_slack_mm": 28.653793894753704,
+      "overlap_mm3": {
+        "yarn-eye-post": 0.0,
+        "yarn-guide-arm": 0,
+        "bobbin": 0.0
+      }
+    },
+    {
+      "carriers": 16,
+      "diameter_mm": 0.45,
+      "maximum_stored_slack_mm": 36.27176641993171,
+      "overlap_mm3": {
+        "yarn-eye-post": 0.0,
+        "yarn-guide-arm": 0,
+        "bobbin": 0.0
+      }
+    }
+  ],
+  "scope": "Actual complete source route, represented by conservative segment cylinders and endpoint spheres, against the exported guide post, arm and bobbin at the lowest dancer position. The moving loop remains above these three parts throughout its stroke. Other carriers, new viewer-only guide hardware and the full machine are excluded."
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "part": "608-bearing",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 2309.07,
+    "bounds_mm": [
+      22.0,
+      21.99,
+      7.0
+    ]
+  },
+  {
+    "part": "bearing-inner-spacer-10",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 602.87,
+    "bounds_mm": [
+      12.0,
+      12.0,
+      10.0
+    ]
+  },
+  {
+    "part": "bearing-inner-spacer-12",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 723.45,
+    "bounds_mm": [
+      12.0,
+      12.0,
+      12.0
+    ]
+  },
+  {
+    "part": "guide-standoff",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 1343.66,
+    "bounds_mm": [
+      6.0,
+      6.0,
+      70.0
+    ]
+  },
+  {
+    "part": "M8-mast",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 25132.74,
+    "bounds_mm": [
+      8.0,
+      8.0,
+      500.0
+    ]
+  },
+  {
+    "part": "M8-axle",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 4825.49,
+    "bounds_mm": [
+      8.0,
+      8.0,
+      96.0
+    ]
+  },
+  {
+    "part": "M8-nut",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 559.99,
+    "bounds_mm": [
+      15.0,
+      12.99,
+      6.0
+    ]
+  },
+  {
+    "part": "M8-washer",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 218.47,
+    "bounds_mm": [
+      16.0,
+      16.0,
+      1.5
+    ]
+  },
+  {
+    "part": "axle-spacer",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 1845.75,
+    "bounds_mm": [
+      12.0,
+      12.0,
+      32.0
+    ]
+  },
+  {
+    "part": "foot",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 14518.24,
+    "bounds_mm": [
+      28.0,
+      28.0,
+      20.0
+    ]
+  },
+  {
+    "part": "carrier-body",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 2352.27,
+    "bounds_mm": [
+      22.0,
+      21.99,
+      22.5
+    ]
+  },
+  {
+    "part": "bobbin",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 3757.09,
+    "bounds_mm": [
+      26.0,
+      25.99,
+      42.0
+    ]
+  },
+  {
+    "part": "bobbin-spindle",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 1639.91,
+    "bounds_mm": [
+      6.0,
+      6.0,
+      58.0
+    ]
+  },
+  {
+    "part": "spindle-adapter",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 471.24,
+    "bounds_mm": [
+      10.0,
+      10.0,
+      8.0
+    ]
+  },
+  {
+    "part": "yarn-eye-post",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 957.81,
+    "bounds_mm": [
+      10.0,
+      13.0,
+      58.0
+    ]
+  },
+  {
+    "part": "yarn-guide-arm",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 473.72,
+    "bounds_mm": [
+      18.57,
+      10.0,
+      3.0
+    ]
+  },
+  {
+    "part": "tension-washer",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 121.77,
+    "bounds_mm": [
+      14.0,
+      14.0,
+      1.0
+    ]
+  },
+  {
+    "part": "spring-envelope",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 205.84,
+    "bounds_mm": [
+      9.0,
+      9.0,
+      7.0
+    ]
+  },
+  {
+    "part": "yarn-package",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 10555.75,
+    "bounds_mm": [
+      22.0,
+      21.99,
+      35.0
+    ]
+  },
+  {
+    "part": "NEMA17",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 71752.23,
+    "bounds_mm": [
+      42.0,
+      42.0,
+      64.0
+    ]
+  },
+  {
+    "part": "drive-pinion",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 10902.33,
+    "bounds_mm": [
+      43.98,
+      43.98,
+      16.0
+    ]
+  },
+  {
+    "part": "capstan",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 25670.82,
+    "bounds_mm": [
+      44.0,
+      43.99,
+      20.0
+    ]
+  },
+  {
+    "part": "idler",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 12616.01,
+    "bounds_mm": [
+      36.0,
+      35.99,
+      20.0
+    ]
+  },
+  {
+    "part": "esp32",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 5556.0,
+    "bounds_mm": [
+      28.0,
+      52.0,
+      6.0
+    ]
+  },
+  {
+    "part": "driver",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 1440.0,
+    "bounds_mm": [
+      16.0,
+      20.0,
+      10.0
+    ]
+  },
+  {
+    "part": "electronics-tray",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 55368.0,
+    "bounds_mm": [
+      132.0,
+      78.0,
+      23.0
+    ]
+  },
+  {
+    "part": "upper-frame",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 338944.96,
+    "bounds_mm": [
+      380.0,
+      380.0,
+      6.0
+    ]
+  },
+  {
+    "part": "takeup-bridge",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 157946.52,
+    "bounds_mm": [
+      380.0,
+      70.0,
+      6.0
+    ]
+  },
+  {
+    "part": "motor-riser",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 23188.68,
+    "bounds_mm": [
+      66.0,
+      66.0,
+      6.0
+    ]
+  },
+  {
+    "part": "takeup-face",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 50188.75,
+    "bounds_mm": [
+      112.0,
+      80.0,
+      6.0
+    ]
+  },
+  {
+    "part": "forming-guide",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 73792.36,
+    "bounds_mm": [
+      356.0,
+      190.0,
+      6.0
+    ]
+  },
+  {
+    "part": "fit-coupon",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 41266.37,
+    "bounds_mm": [
+      130.0,
+      65.0,
+      6.0
+    ]
+  },
+  {
+    "part": "base-8",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 941998.45,
+    "bounds_mm": [
+      420.0,
+      380.0,
+      6.0
+    ]
+  },
+  {
+    "part": "track-study-8",
+    "valid": true,
+    "solids": 6,
+    "volume_mm3": 658876.04,
+    "bounds_mm": [
+      340.0,
+      340.0,
+      6.0
+    ]
+  },
+  {
+    "part": "rotor-8-01",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-8-02",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.96,
+      83.96,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-8-03",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-8-04",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.96,
+      83.96,
+      30.0
+    ]
+  },
+  {
+    "part": "base-12",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 939297.69,
+    "bounds_mm": [
+      420.0,
+      380.0,
+      6.0
+    ]
+  },
+  {
+    "part": "track-study-12",
+    "valid": true,
+    "solids": 8,
+    "volume_mm3": 632516.53,
+    "bounds_mm": [
+      340.0,
+      340.0,
+      6.0
+    ]
+  },
+  {
+    "part": "rotor-12-01",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-12-02",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-12-03",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.86,
+      83.86,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-12-04",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.96,
+      83.96,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-12-05",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      84.0,
+      84.0,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-12-06",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.93,
+      83.93,
+      30.0
+    ]
+  },
+  {
+    "part": "base-16",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 938632.67,
+    "bounds_mm": [
+      420.0,
+      380.0,
+      6.0
+    ]
+  },
+  {
+    "part": "track-study-16",
+    "valid": true,
+    "solids": 10,
+    "volume_mm3": 582808.46,
+    "bounds_mm": [
+      340.0,
+      340.0,
+      6.0
+    ]
+  },
+  {
+    "part": "rotor-16-01",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-16-02",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.96,
+      83.96,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-16-03",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-16-04",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.96,
+      83.96,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-16-05",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-16-06",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.96,
+      83.96,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-16-07",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.99,
+      83.99,
+      30.0
+    ]
+  },
+  {
+    "part": "rotor-16-08",
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 76340.93,
+    "bounds_mm": [
+      83.96,
+      83.96,
+      30.0
+    ]
+  }
+]

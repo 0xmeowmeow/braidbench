@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+.cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.FCBak
+*-frames/
+braidbench-design-package.zip

@@ -1,0 +1,10 @@
+{
+  "toolchain": "g++ C++17 with Arduino GPIO/time/serial stubs; NOT the ESP32 core",
+  "results": [
+    "Default qualification lock: PASS",
+    "Qualified stub: PASS; pulses drive=480 feed=47; NC latch, explicit rearm, stall and STOP verified"
+  ],
+  "hardware_run": false,
+  "ESP32_compilation": false,
+  "qualification_flag_as_shipped": false
+}

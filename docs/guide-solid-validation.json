@@ -1,0 +1,27 @@
+{
+  "scope": "Rest-pose solid intersections for corrected trailing guide, arm, bobbin and 0.3 mm diameter tangent payout line; not a complete machine collision or tension qualification.",
+  "previous_guide_bobbin_intersection_mm3": 144,
+  "results": [
+    {
+      "strands": 8,
+      "guide_bobbin_overlap_mm3": 0.0,
+      "arm_bobbin_overlap_mm3": 0.0,
+      "yarn_guide_overlap_mm3": 0.0,
+      "yarn_flange_overlap_mm3": 0.0
+    },
+    {
+      "strands": 12,
+      "guide_bobbin_overlap_mm3": 0.0,
+      "arm_bobbin_overlap_mm3": 0.0,
+      "yarn_guide_overlap_mm3": 0.0,
+      "yarn_flange_overlap_mm3": 0.0
+    },
+    {
+      "strands": 16,
+      "guide_bobbin_overlap_mm3": 0.0,
+      "arm_bobbin_overlap_mm3": 0.0,
+      "yarn_guide_overlap_mm3": 0.0,
+      "yarn_flange_overlap_mm3": 0.0
+    }
+  ]
+}

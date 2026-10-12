@@ -1,0 +1,85 @@
+{
+  "scope": "Guide-derived crossing topology, material advection, independent neutral-centreline length accounting, non-reversing payout and continuous supply routing. Finite-diameter clearance is checked separately. Individual industrial ends share the neutral-centreline payout model; their differential elasticity, slip and torsion are not modelled. No carrier-shoe contact or physical build validation.",
+  "results": [
+    {
+      "carriers": 8,
+      "pattern": "2 over / 2 under carrier bundles, measured from every carrier",
+      "crossings_per_carrier_per_circuit": 8,
+      "winding_families": [
+        4,
+        4
+      ],
+      "maximum_length_balance_error_mm": 3.9968028886505635e-14,
+      "maximum_independent_free_length_error_mm": 5.684341886080802e-14,
+      "maximum_source_route_length_error_mm": 1.7053025658242404e-13,
+      "maximum_spool_boundary_jump_radians": 6.932288833507565e-8,
+      "maximum_supply_boundary_jump_mm": 0.00000979878569678182,
+      "sampled_minimum_same_plane_centerline_spacing_mm": 0.4713318337897866,
+      "required_maximum_two_leg_dancer_travel_mm": 10.143541704547603
+    },
+    {
+      "carriers": 12,
+      "pattern": "2 over / 2 under carrier bundles, measured from every carrier",
+      "crossings_per_carrier_per_circuit": 12,
+      "winding_families": [
+        6,
+        6
+      ],
+      "maximum_length_balance_error_mm": 4.263256414560601e-14,
+      "maximum_independent_free_length_error_mm": 1.1368683772161603e-13,
+      "maximum_source_route_length_error_mm": 1.9895196601282805e-13,
+      "maximum_spool_boundary_jump_radians": 8.791141836717031e-8,
+      "maximum_supply_boundary_jump_mm": 0.000009798785796709574,
+      "sampled_minimum_same_plane_centerline_spacing_mm": 0.47237866401643974,
+      "required_maximum_two_leg_dancer_travel_mm": 14.326896947376852
+    },
+    {
+      "carriers": 16,
+      "pattern": "2 over / 2 under carrier bundles, measured from every carrier",
+      "crossings_per_carrier_per_circuit": 16,
+      "winding_families": [
+        8,
+        8
+      ],
+      "maximum_length_balance_error_mm": 4.973799150320701e-14,
+      "maximum_independent_free_length_error_mm": 1.9895196601282805e-13,
+      "maximum_source_route_length_error_mm": 3.410605131648481e-13,
+      "maximum_spool_boundary_jump_radians": 1.0732034838589755e-7,
+      "maximum_supply_boundary_jump_mm": 0.000009798786025280962,
+      "sampled_minimum_same_plane_centerline_spacing_mm": 0.47257404020610366,
+      "required_maximum_two_leg_dancer_travel_mm": 18.135883209965854
+    },
+    {
+      "carriers": 48,
+      "pattern": "2 over / 2 under carrier bundles, measured from every carrier",
+      "crossings_per_carrier_per_circuit": 48,
+      "winding_families": [
+        24,
+        24
+      ],
+      "maximum_length_balance_error_mm": 1.1368683772161603e-13,
+      "maximum_independent_free_length_error_mm": 2.8421709430404007e-13,
+      "maximum_source_route_length_error_mm": 4.263256414560601e-13,
+      "maximum_spool_boundary_jump_radians": 9.013650625888658e-7,
+      "maximum_supply_boundary_jump_mm": 0.00000446659314078704,
+      "sampled_minimum_same_plane_centerline_spacing_mm": 0.16813089059208136,
+      "required_maximum_two_leg_dancer_travel_mm": 9.776103934775506
+    },
+    {
+      "carriers": 72,
+      "pattern": "2 over / 2 under carrier bundles, measured from every carrier",
+      "crossings_per_carrier_per_circuit": 72,
+      "winding_families": [
+        36,
+        36
+      ],
+      "maximum_length_balance_error_mm": 8.526512829121202e-14,
+      "maximum_independent_free_length_error_mm": 3.410605131648481e-13,
+      "maximum_source_route_length_error_mm": 3.694822225952521e-13,
+      "maximum_spool_boundary_jump_radians": 8.857432334252735e-7,
+      "maximum_supply_boundary_jump_mm": 0.0000029851393534668434,
+      "sampled_minimum_same_plane_centerline_spacing_mm": 0.16823366605787238,
+      "required_maximum_two_leg_dancer_travel_mm": 6.563060161033917
+    }
+  ]
+}

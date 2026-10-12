@@ -1,0 +1,101 @@
+[
+  {
+    "strands": 8,
+    "rotors": 4,
+    "loading_zero_based_slots": [
+      0,
+      4,
+      6,
+      7,
+      10,
+      12,
+      13,
+      14
+    ],
+    "rotor_revolutions": 8,
+    "samples": 16001,
+    "step_degrees": 0.18,
+    "smallest_sampled_center_separation_mm": 33.13711,
+    "conservative_between_sample_lower_bound_mm": 33.01144,
+    "bobbin_diameter_mm": 26,
+    "clearance_threshold_mm": 27,
+    "simultaneously_occupied_transfers": 0,
+    "imposed_handoffs": 128,
+    "first_transfer_direction_counts": {
+      "CW": 4,
+      "CCW": 4
+    },
+    "minimum_at_rotor_phase_radians": 1.5393804002589988,
+    "limits": "Prescribed circular paths and instantaneous successful handoffs. No guide contact, tooth contact, yarn, post, retention or real tension simulation."
+  },
+  {
+    "strands": 12,
+    "rotors": 6,
+    "loading_zero_based_slots": [
+      1,
+      4,
+      5,
+      6,
+      10,
+      13,
+      14,
+      15,
+      19,
+      20,
+      21,
+      23
+    ],
+    "rotor_revolutions": 8,
+    "samples": 16001,
+    "step_degrees": 0.18,
+    "smallest_sampled_center_separation_mm": 56.56854,
+    "conservative_between_sample_lower_bound_mm": 56.44288,
+    "bobbin_diameter_mm": 26,
+    "clearance_threshold_mm": 27,
+    "simultaneously_occupied_transfers": 0,
+    "imposed_handoffs": 192,
+    "first_transfer_direction_counts": {
+      "CW": 6,
+      "CCW": 6
+    },
+    "minimum_at_rotor_phase_radians": 28.41570555171968,
+    "limits": "Prescribed circular paths and instantaneous successful handoffs. No guide contact, tooth contact, yarn, post, retention or real tension simulation."
+  },
+  {
+    "strands": 16,
+    "rotors": 8,
+    "loading_zero_based_slots": [
+      0,
+      2,
+      3,
+      7,
+      8,
+      10,
+      11,
+      12,
+      16,
+      17,
+      19,
+      21,
+      24,
+      25,
+      26,
+      30
+    ],
+    "rotor_revolutions": 8,
+    "samples": 16001,
+    "step_degrees": 0.18,
+    "smallest_sampled_center_separation_mm": 56.56854,
+    "conservative_between_sample_lower_bound_mm": 56.44288,
+    "bobbin_diameter_mm": 26,
+    "clearance_threshold_mm": 27,
+    "simultaneously_occupied_transfers": 0,
+    "imposed_handoffs": 256,
+    "first_transfer_direction_counts": {
+      "CW": 8,
+      "CCW": 8
+    },
+    "minimum_at_rotor_phase_radians": 31.808625617596658,
+    "limits": "Prescribed circular paths and instantaneous successful handoffs. No guide contact, tooth contact, yarn, post, retention or real tension simulation."
+  }
+]

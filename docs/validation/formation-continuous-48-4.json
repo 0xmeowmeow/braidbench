@@ -1,0 +1,16 @@
+{
+  "carriers": 48,
+  "ends": 4,
+  "continuous_intervals": 150,
+  "numerical_clearance_reserve_mm": 0.0003,
+  "maximum_rotational_symmetry_error_mm": 2.0197419421992741e-13,
+  "primitive_distance_tests": 386811,
+  "recursive_subdivisions": 3524,
+  "maximum_depth": 7,
+  "minimum_certified_surface_clearance_mm": 0.0003001920996426599,
+  "minimum_observed_surface_clearance_mm": 0.0009601370092593153,
+  "minimum_certified_core_clearance_mm": 0.00030000007204662726,
+  "failures": [],
+  "method": "Relative endpoint motion bounds plus analytic radial-offset and guide-curve chord bounds; split at all guide handoffs, profile vertices and formation frames. Verified rotational symmetry reduces equivalent pairs.",
+  "limits": "Certifies different-wire and core separation in the stated geometric interpolation model. Not a mechanical, self-contact, torsion, manufacturing or hardware certificate."
+}

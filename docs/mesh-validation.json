@@ -1,0 +1,142 @@
+[
+  {
+    "file": "fabrication/printed/axle-spacer.stl",
+    "closed": true,
+    "facets": 1008
+  },
+  {
+    "file": "fabrication/printed/bobbin.stl",
+    "closed": true,
+    "facets": 2016
+  },
+  {
+    "file": "fabrication/printed/capstan.stl",
+    "closed": true,
+    "facets": 2808
+  },
+  {
+    "file": "fabrication/printed/carrier-body.stl",
+    "closed": true,
+    "facets": 2516
+  },
+  {
+    "file": "fabrication/printed/drive-pinion.stl",
+    "closed": true,
+    "facets": 2920
+  },
+  {
+    "file": "fabrication/printed/electronics-tray.stl",
+    "closed": true,
+    "facets": 28
+  },
+  {
+    "file": "fabrication/printed/foot.stl",
+    "closed": true,
+    "facets": 520
+  },
+  {
+    "file": "fabrication/printed/idler.stl",
+    "closed": true,
+    "facets": 1008
+  },
+  {
+    "file": "fabrication/printed/rotor-12-01.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-12-02.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-12-03.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-12-04.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-12-05.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-12-06.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-01.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-02.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-03.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-04.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-05.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-06.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-07.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-16-08.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-8-01.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-8-02.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-8-03.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/rotor-8-04.stl",
+    "closed": true,
+    "facets": 5616
+  },
+  {
+    "file": "fabrication/printed/spindle-adapter.stl",
+    "closed": true,
+    "facets": 1512
+  },
+  {
+    "file": "fabrication/printed/yarn-eye-post.stl",
+    "closed": true,
+    "facets": 1020
+  }
+]

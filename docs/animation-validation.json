@@ -1,0 +1,75 @@
+{
+  "scope": "Viewer animation continuity, including off-centre guide posts; not physical transfer validation",
+  "results": [
+    {
+      "strands": 8,
+      "circuit_rotor_degrees": 720,
+      "transfer_events": 32,
+      "maximum_boundary_displacement_mm": 0.000008692525628881064,
+      "maximum_boundary_yaw_change_radians": 2.000000028270782e-7,
+      "tested_speeds": [
+        0.25,
+        0.5,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "strands": 12,
+      "circuit_rotor_degrees": 1080,
+      "transfer_events": 72,
+      "maximum_boundary_displacement_mm": 0.000008692525711720212,
+      "maximum_boundary_yaw_change_radians": 2.0000000307200754e-7,
+      "tested_speeds": [
+        0.25,
+        0.5,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "strands": 16,
+      "circuit_rotor_degrees": 1440,
+      "transfer_events": 128,
+      "maximum_boundary_displacement_mm": 0.000008692525851464166,
+      "maximum_boundary_yaw_change_radians": 2.0000001042236427e-7,
+      "tested_speeds": [
+        0.25,
+        0.5,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "strands": 48,
+      "circuit_rotor_degrees": 4320,
+      "transfer_events": 1152,
+      "maximum_boundary_displacement_mm": 0.0000038113650399883455,
+      "maximum_boundary_yaw_change_radians": 2.0000000233721948e-7,
+      "tested_speeds": [
+        0.25,
+        0.5,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "strands": 72,
+      "circuit_rotor_degrees": 6479.999999999999,
+      "transfer_events": 2592,
+      "maximum_boundary_displacement_mm": 0.0000025449478840657188,
+      "maximum_boundary_yaw_change_radians": 2.0000000674594794e-7,
+      "tested_speeds": [
+        0.25,
+        0.5,
+        1,
+        2,
+        4
+      ]
+    }
+  ]
+}

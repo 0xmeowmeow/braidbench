@@ -1,0 +1,26 @@
+{
+  "scope": "Conservative planar envelopes (guide radius 8.55 mm, bobbin 13 mm) along ideal prescribed motion. Excludes carrier-foot contacts, fasteners, yarn forces and unmodelled dancer. Own-bobbin clearance checked separately with FreeCAD solids.",
+  "results": [
+    {
+      "strands": 8,
+      "samples": 8000,
+      "guide_to_other_bobbin_envelope_clearance_mm": 9.800847390923877,
+      "guide_to_guide_envelope_clearance_mm": 9.111834708226894,
+      "between_sample_bound_mm": 0.0895353906273091
+    },
+    {
+      "strands": 12,
+      "samples": 8000,
+      "guide_to_other_bobbin_envelope_clearance_mm": 20.451199512969776,
+      "guide_to_guide_envelope_clearance_mm": 37.50071842505165,
+      "between_sample_bound_mm": 0.13430308594096366
+    },
+    {
+      "strands": 16,
+      "samples": 8000,
+      "guide_to_other_bobbin_envelope_clearance_mm": 20.45121312513678,
+      "guide_to_guide_envelope_clearance_mm": 39.468601267256645,
+      "between_sample_bound_mm": 0.1790707812546182
+    }
+  ]
+}

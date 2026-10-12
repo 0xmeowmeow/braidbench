@@ -1,0 +1,1739 @@
+{
+  "carriers": 72,
+  "ends_per_carrier": 4,
+  "wires_checked": 288,
+  "samples_per_circuit": 9216,
+  "all_sequences_match": true,
+  "results": [
+    {
+      "wire": 1,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 2,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 3,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 4,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 5,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 6,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 7,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 8,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 9,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 10,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 11,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 12,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 13,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 14,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 15,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 16,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 17,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 18,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 19,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 20,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 21,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 22,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 23,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 24,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 25,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 26,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 27,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 28,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 29,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 30,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 31,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 32,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 33,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 34,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 35,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 36,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 37,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 38,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 39,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 40,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 41,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 42,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 43,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 44,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 45,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 46,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 47,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 48,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 49,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 50,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 51,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 52,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 53,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 54,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 55,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 56,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 57,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 58,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 59,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 60,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 61,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 62,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 63,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 64,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 65,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 66,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 67,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 68,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 69,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 70,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 71,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 72,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 73,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 74,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 75,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 76,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 77,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 78,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 79,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 80,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 81,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 82,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 83,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 84,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 85,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 86,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 87,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 88,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 89,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 90,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 91,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 92,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 93,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 94,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 95,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 96,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 97,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 98,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 99,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 100,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 101,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 102,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 103,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 104,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 105,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 106,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 107,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 108,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 109,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 110,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 111,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 112,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 113,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 114,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 115,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 116,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 117,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 118,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 119,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 120,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 121,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 122,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 123,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 124,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 125,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 126,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 127,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 128,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 129,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 130,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 131,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 132,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 133,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 134,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 135,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 136,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 137,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 138,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 139,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 140,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 141,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 142,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 143,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 144,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 145,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 146,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 147,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 148,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 149,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 150,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 151,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 152,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 153,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 154,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 155,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 156,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 157,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 158,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 159,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 160,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 161,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 162,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 163,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 164,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 165,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 166,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 167,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 168,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 169,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 170,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 171,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 172,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 173,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 174,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 175,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 176,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 177,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 178,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 179,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 180,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 181,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 182,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 183,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 184,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 185,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 186,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 187,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 188,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 189,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 190,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 191,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 192,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 193,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 194,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 195,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 196,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 197,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 198,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 199,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 200,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 201,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 202,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 203,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 204,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 205,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 206,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 207,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 208,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 209,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 210,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 211,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 212,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 213,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 214,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 215,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 216,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 217,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 218,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 219,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 220,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 221,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 222,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 223,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 224,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 225,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 226,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 227,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 228,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 229,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 230,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 231,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 232,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 233,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 234,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 235,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 236,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 237,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 238,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 239,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 240,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 241,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 242,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 243,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 244,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 245,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 246,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 247,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 248,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 249,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 250,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 251,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 252,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 253,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 254,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 255,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 256,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 257,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 258,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 259,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 260,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 261,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 262,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 263,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 264,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 265,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 266,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 267,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 268,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 269,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 270,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 271,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 272,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 273,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 274,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 275,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 276,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 277,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 278,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 279,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 280,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 281,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 282,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 283,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 284,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 285,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 286,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 287,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 288,
+      "guide_crossings": 288,
+      "output_crossings": 288,
+      "same_cyclic_partner_and_over_under_sequence": true
+    }
+  ],
+  "seconds": 15.88,
+  "scope": "Every wire is compared directly with its actual guide path, including its radial-bank offset. Crossing partner identity and outside/inside order must match cyclically. No force, torsion or hardware claim."
+}

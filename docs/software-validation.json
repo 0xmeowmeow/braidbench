@@ -1,0 +1,23 @@
+{
+  "browser": "Chromium / Playwright",
+  "checks": [
+    "8 strands: full circuit phase, continuous speed slider preserves phase, play/pause, seek from exploded",
+    "12 strands: full circuit phase, continuous speed slider preserves phase, play/pause, seek from exploded",
+    "16 strands: full circuit phase, continuous speed slider preserves phase, play/pause, seek from exploded",
+    "All topologies: exposed crossings, before/at/after, next partner, visible continuous supply/loop/output, independent marked spool rotation and continuous payout over circuit seam",
+    "Tabletop part picking, drive isolation and explosion",
+    "Industrial: all 6 carrier/end configurations, count arithmetic, animation, explosion, head isolation; fabrication links hidden",
+    "Switch back restores tabletop controls and downloads",
+    "Controlled browser clock: actual playback rates follow 0.25× / 1× / 4×",
+    "Offline file switches tabletop and industrial models without fetch",
+    "320px and 390px: both modes fit width; simulation speed remains visible",
+    "Build guide, industrial guide, audit and validation method print to PDF"
+  ],
+  "actual_phase_after_one_second": [
+    0.06243750000000005,
+    0.2480000000000002,
+    1.0080000000000007
+  ],
+  "page_errors": [],
+  "limits": "Browser controls and render-state checks only. Pure topology, continuity and guide clearances are separate reports. Carrier-shoe contact, physical tensioner and hardware build are unqualified."
+}

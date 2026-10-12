@@ -1,0 +1,25 @@
+{
+  "count": 16,
+  "ends": 1,
+  "phases": 512,
+  "prototypeCarriers": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "triangles": 2260992,
+  "inverted": 0,
+  "staticOutputTriangles": 32768,
+  "staticOutputInverted": 0,
+  "staticOutputMinimumOrientation": 0.00471064789744701,
+  "minimumOutwardOrientation": 0.006033196362452082,
+  "worstTriangle": {
+    "phase": 2.6139032625571326,
+    "carrier": 0,
+    "end": 0,
+    "segment": 68,
+    "triangle": 1099
+  },
+  "scope": "Actual source, formation and shared output-head rings. Every triangle must face its outward vertex normals. Four rotational prototypes, all wire ends; no hardware or mechanical claim."
+}

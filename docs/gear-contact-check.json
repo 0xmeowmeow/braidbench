@@ -1,0 +1,32 @@
+[
+  {
+    "configuration": 8,
+    "pair": "rotor pair",
+    "static_interference_mm3": 0.0
+  },
+  {
+    "configuration": 8,
+    "pair": "pinion",
+    "static_interference_mm3": 0.0
+  },
+  {
+    "configuration": 12,
+    "pair": "rotor pair",
+    "static_interference_mm3": 0.0
+  },
+  {
+    "configuration": 12,
+    "pair": "pinion",
+    "static_interference_mm3": 0.0
+  },
+  {
+    "configuration": 16,
+    "pair": "rotor pair",
+    "static_interference_mm3": 0.0
+  },
+  {
+    "configuration": 16,
+    "pair": "pinion",
+    "static_interference_mm3": 0.0
+  }
+]

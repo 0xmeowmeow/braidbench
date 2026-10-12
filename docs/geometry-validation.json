@@ -1,0 +1,405 @@
+{
+  "status": "All nine displayed configurations pass the stated geometric checks",
+  "configurations": [
+    {
+      "carriers": 8,
+      "ends_per_carrier": 1,
+      "wires": 8,
+      "wire_diameter_mm": 0.45,
+      "formation_keyframes": 128,
+      "profile": "models/braid-profile-8.json",
+      "profile_sha256": "445d62847ffd978ed85a4f8fdfa8da267f30cc20f24e9a834fb3167f7d495af5",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.021323718454005658,
+      "formation_continuous_lower_bound_mm": 0.0032338748878703028,
+      "formation_observed_minimum_surface_clearance_mm": 0.022003842454616507,
+      "sampled_supply_clearance_lower_bound_mm": 0.1,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-8.json",
+          "sha256": "68007e87fb5993600ec81a4f9e38d36f786b19371cf48e5a67d8682a9c7c9e46"
+        },
+        "output": {
+          "path": "docs/validation/output-8.json",
+          "sha256": "bc9b772d39de36b33f8f73b59c326b180d0d7b8226507bdd5b6d095ffea26a25"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-8.json",
+          "sha256": "a109f82629562ba6ad37bf832fa6617ff75f6cf75fcd4a056592a50887662e08"
+        },
+        "supply": {
+          "path": "docs/validation/supply-8.json",
+          "sha256": "f5c290d801a5d4cd8741c8c7e897650a231a92f59e94c841921ec555b16e1992"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-8.json",
+          "sha256": "848955f8a87020b87003e0154e7a6e3988beb443fbec126c81abaae4b69879b6"
+        }
+      }
+    },
+    {
+      "carriers": 12,
+      "ends_per_carrier": 1,
+      "wires": 12,
+      "wire_diameter_mm": 0.45,
+      "formation_keyframes": 128,
+      "profile": "models/braid-profile-12.json",
+      "profile_sha256": "c3234a4d50995f53417b54b6eb453f3e895b0fea9dcb66d8f2ad17d56547a5b8",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.021090293207007726,
+      "formation_continuous_lower_bound_mm": 0.0010481580680370972,
+      "formation_observed_minimum_surface_clearance_mm": 0.019827561696031892,
+      "sampled_supply_clearance_lower_bound_mm": 0.1,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-12.json",
+          "sha256": "ddf6a4c9ee6fa7443c10c39acfc1cd0d5c682033de9f78ceb1cd57eea2944850"
+        },
+        "output": {
+          "path": "docs/validation/output-12.json",
+          "sha256": "0846bd40ac6bf49d0465323acf12d50635cc861a37c8dd8882532cdd07e3b10f"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-12.json",
+          "sha256": "fbbd4e137586687f325bc65a02b41770bdd5371296884bd332a0fe16eb968cc6"
+        },
+        "supply": {
+          "path": "docs/validation/supply-12.json",
+          "sha256": "e02e797db6bbbe491d12604a0c4d6408d3e9661a93f9fa03b68db04c4d8619de"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-12.json",
+          "sha256": "7ce7ba4161a62a0dcdb6e2b172d78c000f3bc5c2ea60bc97a24959060eb04794"
+        }
+      }
+    },
+    {
+      "carriers": 16,
+      "ends_per_carrier": 1,
+      "wires": 16,
+      "wire_diameter_mm": 0.45,
+      "formation_keyframes": 128,
+      "profile": "models/braid-profile-16.json",
+      "profile_sha256": "5a4e7fc09ca4f9ca26d5deb9a9add060e70e0c235a9443280f59f38a1d4f4d5b",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.0212928019112702,
+      "formation_continuous_lower_bound_mm": 0.0007248967262332151,
+      "formation_observed_minimum_surface_clearance_mm": 0.017000505821648804,
+      "sampled_supply_clearance_lower_bound_mm": 0.1,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-16.json",
+          "sha256": "00fa7c9a17eba7926a39f3322cfbf0a5794f6377ea4de92f22064e2bc20e5629"
+        },
+        "output": {
+          "path": "docs/validation/output-16.json",
+          "sha256": "961a302187213c3d39e4c9c2cae44fa180012ee060dbbbd746274f944a07a79a"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-16.json",
+          "sha256": "8aaacbee2daf8031144a1c311b7213b4e022a00ffbd48fb909a48e5032f5fbef"
+        },
+        "supply": {
+          "path": "docs/validation/supply-16.json",
+          "sha256": "468d5481cb74a5ec2e5ff2537e73286fa923dbb4f679c448ef096513b24d6638"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-16.json",
+          "sha256": "fa9272bfbd43ef0d2cc805c45b05fca723d0cf4798ed869761fff7f8caf510f8"
+        }
+      }
+    },
+    {
+      "carriers": 48,
+      "ends_per_carrier": 1,
+      "wires": 48,
+      "wire_diameter_mm": 0.16,
+      "formation_keyframes": 142,
+      "profile": "models/braid-profile-48.json",
+      "profile_sha256": "56784a08881b32a70ea244eebd105289f47dff941ca9f27aae7fcf1759396310",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.007976645957783524,
+      "formation_continuous_lower_bound_mm": 0.00030657251209162406,
+      "formation_observed_minimum_surface_clearance_mm": 0.002244324655881702,
+      "sampled_supply_clearance_lower_bound_mm": 0.1,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-48-1.json",
+          "sha256": "abe1c2d697fdf96d4e1ed04c93fc160f693170b8000b714e42437b6bf57ff94a"
+        },
+        "output": {
+          "path": "docs/validation/output-48-1.json",
+          "sha256": "fc62b886f4e73e30723470ca322e058244dc39314adbb03310fe6299cd0fe71b"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-48-1.json",
+          "sha256": "02423eebdb793da1fe604a78014eb3b4a3551b3cd6c07ebeb2c2ef9447b31eda"
+        },
+        "supply": {
+          "path": "docs/validation/supply-48-1.json",
+          "sha256": "3004ca5973d18c19e2c1e4315533e884fe6c2c516d0dec03b74675203c7ba51f"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-48-1.json",
+          "sha256": "248a26792b1f7bc0df75ef6b87a6e55b015438888fcb81423dec8fd8162de460"
+        }
+      }
+    },
+    {
+      "carriers": 48,
+      "ends_per_carrier": 4,
+      "wires": 192,
+      "wire_diameter_mm": 0.16,
+      "formation_keyframes": 142,
+      "profile": "models/braid-profile-48.json",
+      "profile_sha256": "56784a08881b32a70ea244eebd105289f47dff941ca9f27aae7fcf1759396310",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.00797073901354653,
+      "formation_continuous_lower_bound_mm": 0.0003001920996426599,
+      "formation_observed_minimum_surface_clearance_mm": 0.0009601370092593153,
+      "sampled_supply_clearance_lower_bound_mm": 0.033467021808805175,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-48-4.json",
+          "sha256": "ce30fbcae407474286af2390e19ab57db38718ad4d85d1171f3091bdaf109f5a"
+        },
+        "output": {
+          "path": "docs/validation/output-48-4.json",
+          "sha256": "346d83e29c6229143154d9b1189d280a8388f0dde55811fcceabd421206e6a83"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-48-4.json",
+          "sha256": "e930d9e63ae9b707dd9c20109bd0585d1c17e3b7a763e1c2a05154b530c988eb"
+        },
+        "supply": {
+          "path": "docs/validation/supply-48-4.json",
+          "sha256": "662acc02608bc5e8d33e24d5e2e9e4c86bc3ce84862d1be824d979001a1864ba"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-48-4.json",
+          "sha256": "203a8653b483d36e8d5653a1130228cbeaae5b900923bf00faf1aaa2e39e997a"
+        }
+      }
+    },
+    {
+      "carriers": 48,
+      "ends_per_carrier": 8,
+      "wires": 384,
+      "wire_diameter_mm": 0.16,
+      "formation_keyframes": 142,
+      "profile": "models/braid-profile-48.json",
+      "profile_sha256": "56784a08881b32a70ea244eebd105289f47dff941ca9f27aae7fcf1759396310",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.00717623324803196,
+      "formation_continuous_lower_bound_mm": 0.00030002469924664266,
+      "formation_observed_minimum_surface_clearance_mm": 0.0003109399523403278,
+      "sampled_supply_clearance_lower_bound_mm": 0.03314584413651647,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-48-8.json",
+          "sha256": "e69815ce241d3b81c0c56ff13d2199502e0700e75ef04b1439ba74f1f2a3bc24"
+        },
+        "output": {
+          "path": "docs/validation/output-48-8.json",
+          "sha256": "02b436d18735c190001275e542945b42fe60d00ed9691d64cc31c8b374de8a79"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-48-8.json",
+          "sha256": "42e67f480db038eb9d8bb7174844edd75c7ea0894271067b247ccf10ceb9087b"
+        },
+        "supply": {
+          "path": "docs/validation/supply-48-8.json",
+          "sha256": "4e1b2cfe399f0768d3efb17cfc6f56ed1f8dde26a7edaab1033055d209d76118"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-48-8.json",
+          "sha256": "80f664b25c87a874ac8b1dc20fd87cdb064fe10b8ca708261ff2463660575158"
+        }
+      }
+    },
+    {
+      "carriers": 72,
+      "ends_per_carrier": 1,
+      "wires": 72,
+      "wire_diameter_mm": 0.16,
+      "formation_keyframes": 159,
+      "profile": "models/braid-profile-72.json",
+      "profile_sha256": "b1b9eaea909f03eb294df91dc5d37049d1159a10e889bb297c68efb426e677d4",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.007984082215122618,
+      "formation_continuous_lower_bound_mm": 0.0003195786768894482,
+      "formation_observed_minimum_surface_clearance_mm": 0.004008738442632692,
+      "sampled_supply_clearance_lower_bound_mm": 0.1,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-72-1.json",
+          "sha256": "2d5e5a0443414e990680f5e52cd70ce9acbee5bc68d1408da25496129925aba2"
+        },
+        "output": {
+          "path": "docs/validation/output-72-1.json",
+          "sha256": "9f13dd7476156f5c75b9ba59f65f5e90e7d49eab1ee6e950958e2b8317a50eb7"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-72-1.json",
+          "sha256": "cdd72c7dca08b6c6472c2cf450bf84920b9c0404adef0db2726bd57340f2e329"
+        },
+        "supply": {
+          "path": "docs/validation/supply-72-1.json",
+          "sha256": "0e0222004640e89cbd41870029632ed078bba870fcd33e0429d36f6442f4a518"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-72-1.json",
+          "sha256": "cad4c65c5c5f3218ae61dc25e901fa158f8a7f6f58585a24b38ef9069f5182bc"
+        }
+      }
+    },
+    {
+      "carriers": 72,
+      "ends_per_carrier": 4,
+      "wires": 288,
+      "wire_diameter_mm": 0.16,
+      "formation_keyframes": 159,
+      "profile": "models/braid-profile-72.json",
+      "profile_sha256": "b1b9eaea909f03eb294df91dc5d37049d1159a10e889bb297c68efb426e677d4",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.007976134807207824,
+      "formation_continuous_lower_bound_mm": 0.00030003878076390045,
+      "formation_observed_minimum_surface_clearance_mm": 0.0011766586852347272,
+      "sampled_supply_clearance_lower_bound_mm": 0.033511053958579035,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-72-4.json",
+          "sha256": "f0415cab1f1525880c712e8061c19e7eb16590d7b6003296450fe8cbe37dc935"
+        },
+        "output": {
+          "path": "docs/validation/output-72-4.json",
+          "sha256": "6bf11da3e0d9b8852018330b5f8ae698de3ad49c3d66dce795a1616206d8251a"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-72-4.json",
+          "sha256": "6f4faee68231ca72c9962c2866844c8f1f0031b52d5ab28d9b4ae38f4fc1f921"
+        },
+        "supply": {
+          "path": "docs/validation/supply-72-4.json",
+          "sha256": "1ca4bcf09f62cd5bb6050f2e53930d2b917ad48e685e1291b369919a29b1b8c4"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-72-4.json",
+          "sha256": "943db943bd8394eb5bb2a43e6513d65908ea89f6551acd78acfd8d58a0a46e74"
+        }
+      }
+    },
+    {
+      "carriers": 72,
+      "ends_per_carrier": 8,
+      "wires": 576,
+      "wire_diameter_mm": 0.16,
+      "formation_keyframes": 159,
+      "profile": "models/braid-profile-72.json",
+      "profile_sha256": "b1b9eaea909f03eb294df91dc5d37049d1159a10e889bb297c68efb426e677d4",
+      "individual_crossing_sequences": "all match the actual guides",
+      "output_minimum_surface_clearance_mm": 0.006608312016052137,
+      "formation_continuous_lower_bound_mm": 0.00030003878076390045,
+      "formation_observed_minimum_surface_clearance_mm": 0.0006215103302505132,
+      "sampled_supply_clearance_lower_bound_mm": 0.03319744670109201,
+      "inverted_surface_triangles": 0,
+      "reports": {
+        "topology": {
+          "path": "docs/validation/topology-72-8.json",
+          "sha256": "75da03db13c3f9c25107b86ac387a94b727aba3d9ed3362b68c07ade4303ac39"
+        },
+        "output": {
+          "path": "docs/validation/output-72-8.json",
+          "sha256": "a32023ef16e48f83672eef7e9a188015834a12e81f501da463d64b90671877f5"
+        },
+        "formation-continuous": {
+          "path": "docs/validation/formation-continuous-72-8.json",
+          "sha256": "e0266c5775bb5533a311cca4188fae9676010eb9fbbc2a9cb5536b7bcacc4741"
+        },
+        "supply": {
+          "path": "docs/validation/supply-72-8.json",
+          "sha256": "52108cbe48c283cf1fab8866f357faacd4535ae0d4e4c94a42c1977c8d8f3f07"
+        },
+        "surfaces": {
+          "path": "docs/validation/surfaces-72-8.json",
+          "sha256": "3bddb8ae20cee022760d48aa8baea690130946c68833221241aa873813ff5f0f"
+        }
+      }
+    }
+  ],
+  "sources": {
+    "models/assembly-12.json": "3d683824bf0df96eb3244d1d9c321d4911f3a92bcfa17fd5fb98413a770ef68f",
+    "models/assembly-16.json": "dac670917fe3dd352c194b6e191a05cdcc7cef15a6a82bd1bec618cf402f0350",
+    "models/assembly-8.json": "125ea1b2d00d7da7267bc0c29cc1088f3aa723666cb8eb267c57058369a2c331",
+    "models/industrial-motion-48.json": "933517fc54fe7ab9426a57c06d99856f24289697269eb9cb3e93654922d6860c",
+    "models/industrial-motion-72.json": "8bfecce904ccb45c22b7e771842da4c68a395f660537bd78f1de3a42a2fec2e7",
+    "tools/braid_geometry.py": "9670d2e275d465d70318e366129e694d55f8316586276468d2c06a0739f7d6bd",
+    "tools/build_offline.py": "eaa3eff2d95430d3eb3762a14faeb1994eb6d71f66d370c1e7ac7de5027ace94",
+    "tools/certify_formation.py": "c850954f052585d0614e50c681ba76dea61edf381289ac00bee65d2069e22ee1",
+    "tools/check_animation.mjs": "b04a531f9ff5800b380ba3ace78df9fe2d3a0dcb8a3b48d1267dc3d1a1b338ed",
+    "tools/check_carriers.py": "26cacffcb25d39d4d41aec492e8c7c577395304c577b24c57433a9a06bb8cb7e",
+    "tools/check_firmware.py": "69dbadd778dfe889dca8e1d9108156863cb2c1fc711bd4c0daee3230d77e9a6d",
+    "tools/check_guide_clearance.mjs": "59dc3603ffc00f71d0bd650686011bf32b6515aae4027496b60324424408d606",
+    "tools/check_guide_solids.py": "9d66d091178039d54fd3bd07deee211d869b97b6100b8af8f54a9a224a307b18",
+    "tools/check_output_identity.mjs": "b30bec3ffe7e5c9a7f54bef8156dac3bcfa56217366ca6a076eebe504b6a45c9",
+    "tools/check_rendering.cjs": "b32e01629b8ddb40c0d610a6f2ac39609250c03332c14f6b8cec032c5a7d6421",
+    "tools/check_review.cjs": "c21f03260cf3c0b588d2d1c0a412c549b5444f22f8031f317c055c6f13dc3c20",
+    "tools/check_strand_surfaces.mjs": "3de4244e1f0e65514b799b4cedca872f7568f3984ff415cb2019d8375c8dcc2e",
+    "tools/check_supply_clearance.py": "817074fd332e08ad14d269ec4780eb6bc4def63aa6c4cdebef37abde9791287c",
+    "tools/check_supply_solids.py": "b4c4771d1faf64fe61ce1320303415ab317c27ff2ff3281feaca4bbc5881ecf5",
+    "tools/check_viewer.cjs": "0c100c0ee0d7e8f36a5cb05b0e1b7eda88c980fc6e93b24ffcdc94f4953fec5e",
+    "tools/check_wire_topology.py": "66a0a9f8710c0d51df8eec6dd2a856e6a5ad941b74e73966c2b3abf56d4c2da4",
+    "tools/check_yarn.mjs": "265556ad5f79cab604f727ea702f7b614765fbc9e5b83bf7bf34edf65bdc0b13",
+    "tools/export_braid_source.mjs": "ec44e030210c72b6241bab31fd54b3fed1eceed67b50c04e5412f78b2b0c4b30",
+    "tools/export_supply_paths.mjs": "52d7d7f4763f3e020984a411a416ecba6540778051cdef376a3bc88b2fcb2550",
+    "tools/export_supply_solids.mjs": "8572daafdebc6e74ed484e415899ce8eea510b2b17cf432f24a5be0a7ba35d1a",
+    "tools/generate_cad.py": "22e0bca5226e2890f3e20b05b7bdeec2135702b3f65fb2865990f055e08a9dda",
+    "tools/generate_industrial_motion.py": "e94f54f11a98ae58e231b8898cbf80e227f5c3da81242e3850b9046d23479bd6",
+    "tools/package.py": "725284ddeafc53b04755f13a60d64c6c7d9383a1cf603547f1cfa53e9e3c5c28",
+    "tools/refresh_track_drawings.py": "939641d0c3d4623f1a37a8866ae33d3b31e280945d8f5fd3d235700f5ea3f1cc",
+    "tools/relax_braid.py": "49d96d161031050cc97b79a43cabe177a959d060a52e98af0dd07622e0086b82",
+    "tools/relax_formation.py": "3a9abfa64270c3643e6265f9c1f356bd3a9cc313d8c80a9b1a597ca17dc12df7",
+    "tools/summarize_geometry.py": "4f7f4c015eb4e5622a4e3acaaa7409f4750abf2c011b3257b934cb330e59e3a6",
+    "tools/validate_braid_profile.py": "57689849ef294bda38849e374845294fc663a24f1d8c66a031f86d3860f971c8",
+    "tools/validate_formation.py": "365b4e4829cbdb402f2155da29d45a6a4a009623fa4f474c69ab1b5cd43b4bfd",
+    "viewer/app.js": "61356877b8b092fcfa60fa5d200298c912564538370f60ee6f643a4df5f92e1f",
+    "viewer/braid-profile.mjs": "2a5f3544a09d7f269828ca9b2b1bd420202bec5cdb227f2e93a5edd25d44a00c",
+    "viewer/guide-comb.mjs": "54a32ef71d32ce8186e27fe2e18614d1222d633a1cb355a90ad8e5148fae080e",
+    "viewer/horn-geometry.mjs": "27bdafec5d16f3a02006037f5dbce04040a67c667e96db4282cc70effd99ed87",
+    "viewer/industrial-supply.mjs": "103a0f926f6002cf8573a80b65a62d4524d9776def4df5fb128eb8466f93ee19",
+    "viewer/industrial.mjs": "7139b124e9da57afb85c97e31f2bfee74893c62a25f57f4f10d11366591cf402",
+    "viewer/motion.mjs": "882e4b0bc5333282d501858485720f2689031c0295757e1737197e6329290382",
+    "viewer/strand-output.mjs": "9f573f845ebb393c5882c467b125bb174595f35f20cf3b081d93615221fd6ec4",
+    "viewer/strand-sampling.mjs": "55be73b24f10fb8c866134b6143a841d10edf08e2217969e9fe2a4cf4ff337cc",
+    "viewer/strand-tube.mjs": "749d892a7dabe09cdb1e279792496f3c8f6c897c1003ba11ed3c7bf3e45cef75",
+    "viewer/strand-view.mjs": "8fd7852b8116cdec0e80b12e488159a3e5e6c49515ea994ee6320cada46a2d23",
+    "viewer/tabletop-supply.mjs": "475483f9585f34b331316b1f8b7f7a0ebd8e34a3c5b1859d15a0744aa5ba9639",
+    "viewer/tension-motion.mjs": "4d187a23f2a7fcab4da13c19d52ce9eef19d04dc7087e6e46c67b7020ba7147e",
+    "viewer/tension-view.mjs": "b97b325187899a9b695721d11db18f9343bc07ee00b431d7eb66237bc715056d",
+    "viewer/yarn-motion.mjs": "c75b6473f9d7b8faef774a1a77013737a0b37ae7af697e2955054c32223ac546"
+  },
+  "additional_reports": {
+    "docs/animation-validation.json": "804e44a969afb993b4d09256a996868d51fb37001d580bed113fefd24ee9b5c9",
+    "docs/yarn-validation.json": "1377575120b4e96e88cfdfaabc7cda7efc917de6afba7078bec510b42e1ad857",
+    "docs/output-identity-validation.json": "fd78807ff1632ef9c9818bdce16cfc8e6be034f10352ba37776cca20f18e0c38",
+    "docs/supply-solid-validation.json": "0e30106af507aea7d7e6c1c6fef5515d6179d454d4e41a5b7caa5fc1385e62a8",
+    "docs/render-validation.json": "21345213be7594e8d30cc9d3a22845b0125c9f4ec8b5d8dc8652c0f74693fa1f",
+    "docs/software-validation.json": "c1fa2972dff35359cc8a58a417f2be18426dc16576f35f99bcf9006ce6384958",
+    "docs/offline-validation.json": "3ed973890adf3014e9a3f8c1767c120c6ec8dbfb7d80a0cd2851680cfeee8401"
+  },
+  "method": "docs/validation-method.html",
+  "limits": [
+    "Geometric reconstruction and finite-wire separation, not calibrated material forces.",
+    "Continuous bounds cover different-wire and core separation through formation. Supply routing and surface orientation use sampled checks.",
+    "No complete self-contact, torsion, differential multi-end elasticity, winding-depletion or hardware-interference qualification.",
+    "Carrier shoe/transfer and physical brake/dancer details remain incomplete; no physical build or deployment is established by these reports."
+  ]
+}

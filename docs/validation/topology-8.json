@@ -1,0 +1,59 @@
+{
+  "carriers": 8,
+  "ends_per_carrier": 1,
+  "wires_checked": 8,
+  "samples_per_circuit": 1024,
+  "all_sequences_match": true,
+  "results": [
+    {
+      "wire": 1,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 2,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 3,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 4,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 5,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 6,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 7,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    },
+    {
+      "wire": 8,
+      "guide_crossings": 8,
+      "output_crossings": 8,
+      "same_cyclic_partner_and_over_under_sequence": true
+    }
+  ],
+  "seconds": 0.04,
+  "scope": "Every wire is compared directly with its actual guide path, including its radial-bank offset. Crossing partner identity and outside/inside order must match cyclically. No force, torsion or hardware claim."
+}

@@ -1,0 +1,51 @@
+{
+  "results": [
+    {
+      "carriers": 8,
+      "ends": 1,
+      "maximum_cell_or_circuit_seam_changed_pixel_fraction": 0,
+      "paused_rendering": "idle",
+      "formation_and_supply": "solid close-up tubes",
+      "orbit_and_cutaway": "pass",
+      "return_pulley_picking": "pass"
+    },
+    {
+      "carriers": 12,
+      "ends": 1,
+      "maximum_cell_or_circuit_seam_changed_pixel_fraction": 0,
+      "paused_rendering": "idle",
+      "formation_and_supply": "solid close-up tubes",
+      "orbit_and_cutaway": "pass",
+      "return_pulley_picking": "pass"
+    },
+    {
+      "carriers": 16,
+      "ends": 1,
+      "maximum_cell_or_circuit_seam_changed_pixel_fraction": 0,
+      "paused_rendering": "idle",
+      "formation_and_supply": "solid close-up tubes",
+      "orbit_and_cutaway": "pass",
+      "return_pulley_picking": "pass"
+    },
+    {
+      "carriers": 48,
+      "ends": 8,
+      "maximum_cell_or_circuit_seam_changed_pixel_fraction": 0.000033070108630296226,
+      "paused_rendering": "idle",
+      "formation_and_supply": "solid close-up tubes",
+      "orbit_and_cutaway": "pass",
+      "return_pulley_picking": "pass"
+    },
+    {
+      "carriers": 72,
+      "ends": 8,
+      "maximum_cell_or_circuit_seam_changed_pixel_fraction": 0.00003206798412634786,
+      "paused_rendering": "idle",
+      "formation_and_supply": "solid close-up tubes",
+      "orbit_and_cutaway": "pass",
+      "return_pulley_picking": "pass"
+    }
+  ],
+  "page_errors": [],
+  "scope": "Chromium rendering and interaction checks. Pixel continuity uses a small phase change around a profile vertex, geometric-cell seam and full carrier circuit. No physical mechanism claim."
+}

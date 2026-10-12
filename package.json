@@ -1,0 +1,16 @@
+{
+  "name": "braidbench",
+  "version": "0.3.0",
+  "private": true,
+  "description": "An inspectable braiding-machine geometry study with tabletop CAD and an ESP32 prototype.",
+  "scripts": {
+    "start": "python3 -m http.server 8765 --bind 127.0.0.1",
+    "build": "python3 tools/build_offline.py node_modules/.bin/esbuild",
+    "test": "node tools/check_animation.mjs && node tools/check_yarn.mjs",
+    "test:browser": "node tools/check_viewer.cjs",
+    "test:rendering": "node tools/check_rendering.cjs",
+    "package": "python3 tools/package.py"
+  },
+  "devDependencies": {"esbuild": "0.25.10", "playwright": "1.64.0"},
+  "engines": {"node": ">=20"}
+}

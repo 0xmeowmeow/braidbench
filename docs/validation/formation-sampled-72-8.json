@@ -1,0 +1,21 @@
+{
+  "carriers": 72,
+  "ends": 8,
+  "phases_checked": 636,
+  "candidate_pairs_checked": 3135832,
+  "minimum_segment_distance_mm": 0.16062151033025052,
+  "minimum_surface_clearance_mm": 0.0006215103302505132,
+  "minimum_surface_radius_mm": 14.003833601728264,
+  "maximum_polyline_turn_degrees": 17.78214296922406,
+  "minimum_discrete_bend_radius_mm": 0.24796516368757648,
+  "worst": {
+    "phase": 2.0371264863121317,
+    "wire_a": 16,
+    "wire_b": 31,
+    "segment_a": 3,
+    "segment_b": 3
+  },
+  "complete": true,
+  "unsafe_intervals": [],
+  "limits": "Finite sampled phases and exact segment tests; not a proof of a continuum mechanical solution or hardware readiness."
+}

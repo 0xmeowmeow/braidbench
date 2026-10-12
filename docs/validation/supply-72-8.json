@@ -1,0 +1,18 @@
+{
+  "carriers": 72,
+  "ends": 8,
+  "phases_checked": 256,
+  "every_carrier_checked": true,
+  "nonlocal_self_exclusion_arclength_mm": 0.32,
+  "primitive_distance_tests": 416448000,
+  "minimum_segment_distance_mm": 0.193197446701092,
+  "minimum_surface_clearance_mm": 0.03319744670109201,
+  "sampled_surface_clearance_lower_bound_mm": 0.03319744670109201,
+  "worst": {
+    "phase": 1.6198837120072371,
+    "wire_a": 432,
+    "wire_b": 433,
+    "same_wire": false
+  },
+  "limits": "Exact segment distances at sampled phases, including self-segments separated by more than two diameters along the path. A null minimum means all tested pairs clear the 0.1 mm surface-clearance search band. Excludes local self-contact, hardware and forces; not a continuous-time certificate."
+}
