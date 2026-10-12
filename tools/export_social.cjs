@@ -6,6 +6,13 @@ const {spawn}=require('node:child_process'),fs=require('node:fs'),path=require('
 const root=path.resolve(__dirname,'..'),choice=process.argv[2]||'all',preview=process.argv.includes('--preview');
 const encoders=new Set();
 const fps=24,duration=18,width=1080,height=1920;
+const {createHash}=require('node:crypto');
+function sourceHashes(kind){
+ const files=['viewer/app.js',...fs.readdirSync(root+'/viewer').filter(n=>n.endsWith('.mjs')&&!['transfer-contact.mjs','transfer-lab.mjs','tension-mechanics.mjs','tension-lab.mjs'].includes(n)).map(n=>'viewer/'+n),`models/braid-profile-${kind==='tabletop'?8:72}.json`];
+ return Object.fromEntries(files.sort().map(name=>[name,createHash('sha256').update(fs.readFileSync(root+'/'+name)).digest('hex')]));
+}
+const subtitleTime=seconds=>'00:00:'+String(seconds).padStart(2,'0')+',000';
+function writeCaptions(kind){fs.writeFileSync(root+`/social/braidbench-${kind}.srt`,shots[kind].map((s,i)=>`${i+1}\n${subtitleTime(s.start)} --> ${subtitleTime(s.end)}\n${s.title.replace(/<br>/g,' ')}\n${s.caption}\n`).join('\n'));}
 const shots={
  tabletop:[
   {start:0,end:4,focus:'track',phase:.45,rate:.65,zoom:.81,title:'How does motion<br>become a braid?',caption:'Eight moving bobbins exchange places.',tag:'08 STRANDS / TABLETOP'},
@@ -46,7 +53,7 @@ const css=`html,body{width:1080px!important;height:1920px!important;overflow:hid
     if(preview)fs.writeFileSync(root+`/social/preview-${kind}-${Math.floor(t)}.png`,png);
     else{if(!encoder.stdin.write(png))await once(encoder.stdin,'drain');if(i%fps===0)console.log(kind,Math.floor(t)+'/'+duration+' sec');}
    }
-   if(encoder){encoder.stdin.end();const [code]=await done;encoders.delete(encoder);if(code!==0)throw Error('ffmpeg failed: '+code);fs.writeFileSync(root+`/social/${kind}-export.json`,JSON.stringify({width,height,fps,duration,frames:indices.length,source:'actual Braidbench WebGL scene',audio:'none',page_errors:errors,shots},null,2)+'\n');}
+   if(encoder){encoder.stdin.end();const [code]=await done;encoders.delete(encoder);if(code!==0)throw Error('ffmpeg failed: '+code);fs.writeFileSync(root+`/social/${kind}-export.json`,JSON.stringify({width,height,fps,duration,frames:indices.length,source:'actual Braidbench WebGL scene',audio:'none',page_errors:errors,shots:shots[kind],source_hashes:sourceHashes(kind)},null,2)+'\n');writeCaptions(kind);}
    if(errors.length)throw Error(errors.join('\n'));await page.close();
   }
  }finally{for(const encoder of encoders){encoder.stdin.destroy();encoder.kill('SIGTERM');}await browser.close();}

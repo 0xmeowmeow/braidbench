@@ -9,8 +9,16 @@
     "test": "node tools/check_animation.mjs && node tools/check_yarn.mjs",
     "test:browser": "node tools/check_viewer.cjs",
     "test:rendering": "node tools/check_rendering.cjs",
-    "package": "python3 tools/package.py"
+    "package": "python3 tools/package.py",
+    "test:experiments": "node tools/check_transfer.mjs && node tools/check_tension.mjs",
+    "test:experiments:browser": "node tools/check_transfer_browser.cjs && node tools/check_tension_browser.cjs && node tools/check_experiment_offline.cjs",
+    "export:social": "node tools/export_social.cjs all"
   },
-  "devDependencies": {"esbuild": "0.25.10", "playwright": "1.64.0"},
-  "engines": {"node": ">=20"}
+  "devDependencies": {
+    "esbuild": "0.25.10",
+    "playwright": "1.64.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
 }

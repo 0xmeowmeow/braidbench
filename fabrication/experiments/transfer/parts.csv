@@ -1,0 +1,10 @@
+item,quantity,notes
+base,1,6 mm plywood; 120 × 100 mm
+track,1,6 mm plywood; retain all four islands
+cover,1,3 mm clear acrylic or plywood; retain all four islands
+boat-shoe,1,PETG or nylon; flat underside on bed; clean sliding surfaces
+round-shoe,1,Comparison control; print like boat shoe
+handle,1,Printed; M3 nut trap opens at top
+"M3 × 20 bolt, nut and two washers",4,Clamps each track/cover island to the base
+M3 × 12 button-head screw,1,Recessed from underside of shoe
+M3 nut,1,Captured inside handle

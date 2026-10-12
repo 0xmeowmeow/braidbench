@@ -4,13 +4,23 @@
   "files": [
     {
       "path": "OPEN-MODEL.html",
-      "bytes": 8738911,
-      "sha256": "8628839793070ae5cfd5f248eebdc3d69d65120c1b0554a0916a8ff759521151"
+      "bytes": 8739536,
+      "sha256": "b0155586746e1c0d0dbbbaa3a0fdf703cc8ff0d2599442ca13fbaec226c837a1"
+    },
+    {
+      "path": "OPEN-TENSION-TEST.html",
+      "bytes": 1695854,
+      "sha256": "f2e713ccbc70c26ca2c56f6c9854e59e24849c77d38dd820021a232d89ef62e4"
+    },
+    {
+      "path": "OPEN-TRANSFER-TEST.html",
+      "bytes": 950622,
+      "sha256": "6fb950670bfd77c09dcd3d058d6bde75e88ef3405f7969cc794acc9fd3f1da85"
     },
     {
       "path": "README.md",
-      "bytes": 4301,
-      "sha256": "0975e54b33b667c0644503067e2328101081ccd19d9c3dddc158804a6c5da867"
+      "bytes": 5453,
+      "sha256": "f524ca8d18c2e1e3b3913682d4270d8a826c506dcc0a910254ad61947d60e229"
     },
     {
       "path": "cad/braidbench-12.FCStd",
@@ -49,18 +59,33 @@
     },
     {
       "path": "docs/build-guide.html",
-      "bytes": 30120,
-      "sha256": "665d1b0f9298d1e2f1964d962582e3e7173699172b29eecf5bf823596b6ad728"
+      "bytes": 30701,
+      "sha256": "57c5b0c3845ea2fbc975dc186439ede6c8ca98eb9f9f08ada0db5f78b28c5e6e"
     },
     {
       "path": "docs/build-guide.pdf",
-      "bytes": 615266,
-      "sha256": "c6f4fcf6efa9299dcce6c59c8366afd39854bdc14f907271bebae788c5009fda"
+      "bytes": 616178,
+      "sha256": "6f20f38657cf0eb397c264566b50a1453ef70568bcd42c22bfc29142e576018c"
     },
     {
       "path": "docs/cad-validation.json",
       "bytes": 8971,
       "sha256": "e99258d30c4dfc323fc9df57061fc2151fcd9399bd4ff6fe4829dd4ba6eeba62"
+    },
+    {
+      "path": "docs/development.md",
+      "bytes": 4790,
+      "sha256": "f09d3f7fcb579096edb25b16deba30ee2ffd00cdd4f3c9c2621cbe3dcef68b64"
+    },
+    {
+      "path": "docs/experiment-offline-validation.json",
+      "bytes": 146,
+      "sha256": "138b251f8e9b7f435233ed1bb84d6d502dafd452a8cc3977982dfda9f5d39335"
+    },
+    {
+      "path": "docs/experiment-validation.json",
+      "bytes": 8316,
+      "sha256": "8a9c4eace1b7256323547aa0881872fe6c1d221428c6a4298f806b6e89702d8a"
     },
     {
       "path": "docs/firmware-validation.json",
@@ -74,8 +99,8 @@
     },
     {
       "path": "docs/geometry-validation.json",
-      "bytes": 20768,
-      "sha256": "d9282042679ffcc4e7b360bb267ede14a8b3e8805bc0529a3b75014d2b51c9da"
+      "bytes": 22325,
+      "sha256": "e2a55166e6f567600924bec1baf0a26242afcb3c242d610bdbd99b82e60ec438"
     },
     {
       "path": "docs/guide-clearance.json",
@@ -94,8 +119,8 @@
     },
     {
       "path": "docs/industrial-braiding.pdf",
-      "bytes": 1891808,
-      "sha256": "2dd030cf7d267d1fffbe0b56f56ab44d9b642badb0710aaee7f1a64e33b38eb0"
+      "bytes": 1891738,
+      "sha256": "688416acce4bfe0568ee6c834a05869c6f4e219a455571cb4fd288b11da06766"
     },
     {
       "path": "docs/loading-12.svg",
@@ -114,13 +139,13 @@
     },
     {
       "path": "docs/mechanism-audit.html",
-      "bytes": 16541,
-      "sha256": "e858401d631c21e45305fd4a05beb40a826df840d4c42d865f73e0686d1b7265"
+      "bytes": 17501,
+      "sha256": "271fcefc3d7d26e3e23eb6d3e6644be07136952fcbfd3c744af25be617ce9aeb"
     },
     {
       "path": "docs/mechanism-audit.pdf",
-      "bytes": 687543,
-      "sha256": "4c1df0f2f716fcc05d5c1c63868dcaf8b49d009251baeccda2745a2f72101a5d"
+      "bytes": 689143,
+      "sha256": "1c82df4d0845b80e1ff9213aa603c8b867b1266a011af0362210363567fc9d31"
     },
     {
       "path": "docs/mesh-validation.json",
@@ -156,6 +181,51 @@
       "path": "docs/supply-solid-validation.json",
       "bytes": 1045,
       "sha256": "0e30106af507aea7d7e6c1c6fef5515d6179d454d4e41a5b7caa5fc1385e62a8"
+    },
+    {
+      "path": "docs/tension-assembly-validation.json",
+      "bytes": 349,
+      "sha256": "ad714d513f6f351137313018059fd5c1c0766af6b364bc2c5c454882f43310c7"
+    },
+    {
+      "path": "docs/tension-browser-validation.json",
+      "bytes": 262,
+      "sha256": "f00c58cbc3978cb41b2144b52d1d4c397f7ad05a92bdc0a2ea40820f5f68856c"
+    },
+    {
+      "path": "docs/tension-cad-validation.json",
+      "bytes": 3136,
+      "sha256": "5c9cad9f47051cc41235b0832f50b439892070e4e8acadd28bef91b8b2b34886"
+    },
+    {
+      "path": "docs/tension-lab.html",
+      "bytes": 10749,
+      "sha256": "73e36a7cd5bad55128cb9ea2e62d49da3f207ba8be76d89b8f50bda85e04a336"
+    },
+    {
+      "path": "docs/tension-mechanics-validation.json",
+      "bytes": 376,
+      "sha256": "800e8b9ded296d6515e4ea6cb98f3606c3720283ee6bd5aac5bd14dd51a547b5"
+    },
+    {
+      "path": "docs/transfer-browser-validation.json",
+      "bytes": 224,
+      "sha256": "ebda8e58fd8164b6d5fba0cc3b6a002eb6e7c954afa1cf42a08f094edb37f2eb"
+    },
+    {
+      "path": "docs/transfer-cad-validation.json",
+      "bytes": 1054,
+      "sha256": "8d5a28321067e8b8b87678ab5ab1c453ef728387e658f673cda7aea8436e4888"
+    },
+    {
+      "path": "docs/transfer-contact-validation.json",
+      "bytes": 529,
+      "sha256": "f15a5e75cb48b5a70ccee92051155ab5ad33caa977ec3f29485b552a1f74ee3a"
+    },
+    {
+      "path": "docs/transfer-lab.html",
+      "bytes": 7568,
+      "sha256": "82b3153aa5edc91ae1f076472cd3ea815a22e2dac9927846589f756e447b8511"
     },
     {
       "path": "docs/validation/formation-continuous-12.json",
@@ -400,7 +470,7 @@
     {
       "path": "docs/validation-method.pdf",
       "bytes": 56464,
-      "sha256": "f2a2cb09d89854f602edfc9ed9c929d15c1e8c3a420404d105b7cb48ae9a2b54"
+      "sha256": "673a48c9b07f1d0117f81bc06d348e8568a7ec3e3f7e46b16c8296a5f6468c07"
     },
     {
       "path": "docs/wiring.svg",
@@ -411,6 +481,281 @@
       "path": "docs/yarn-validation.json",
       "bytes": 3986,
       "sha256": "1377575120b4e96e88cfdfaabc7cda7efc917de6afba7078bec510b42e1ad857"
+    },
+    {
+      "path": "fabrication/experiments/tension/623-bearing.step",
+      "bytes": 4951,
+      "sha256": "f06ad90d15cc158ac90aed10b4b903e37988cf21066b481c110c39c72b76f5ab"
+    },
+    {
+      "path": "fabrication/experiments/tension/M3-fixed-axle.step",
+      "bytes": 3535,
+      "sha256": "1f82dea976fb284c9428fb8d01bd3a47329494978d16e25b3bf79da96f5a5f2b"
+    },
+    {
+      "path": "fabrication/experiments/tension/M3-moving-axle.step",
+      "bytes": 3535,
+      "sha256": "447ead14a1cb4712ff90cf2ecdfca435b37f50fcf349b51c00a33e7a02ec28a7"
+    },
+    {
+      "path": "fabrication/experiments/tension/M6-nut.step",
+      "bytes": 4953,
+      "sha256": "0c83e7d145064c56f12a9bd21248c4874185e0c020bcb515bd9f7b0890a7d9ed"
+    },
+    {
+      "path": "fabrication/experiments/tension/M6-spindle.step",
+      "bytes": 3529,
+      "sha256": "9419a8582648695df76ce2ba3a5a42b45ccf44b6ead39f453e77b97590fe8b57"
+    },
+    {
+      "path": "fabrication/experiments/tension/axle-washer.step",
+      "bytes": 4964,
+      "sha256": "4823fdc60bce22492c569363bdc1cd70cb676f797de4211ca3ad2a751fdd87ef"
+    },
+    {
+      "path": "fabrication/experiments/tension/bench-bobbin.step",
+      "bytes": 8369,
+      "sha256": "b1340c337bb24362e56535ddc59268eb4861734aedfb736db752b58e3bdb4f37"
+    },
+    {
+      "path": "fabrication/experiments/tension/bench-bobbin.stl",
+      "bytes": 100884,
+      "sha256": "0cddb44e4edd7edaa6a0e198a3a4c15682673153e4ba9acdb16b2f7fdc337984"
+    },
+    {
+      "path": "fabrication/experiments/tension/board.dxf",
+      "bytes": 28798,
+      "sha256": "83e44d04c0bc1a75dd40b9be9367ed9038f1326d076583e6ef883bd01ddd79c8"
+    },
+    {
+      "path": "fabrication/experiments/tension/board.step",
+      "bytes": 25844,
+      "sha256": "b96a27633facf8e51ff614e65c22b4a4899cb8123bf046045cd680701a4cc3c9"
+    },
+    {
+      "path": "fabrication/experiments/tension/board.svg",
+      "bytes": 6858,
+      "sha256": "74d093c8bf34106e687c1a8052a1e5f01f24c16b98d3c2808007f75fa1cd946c"
+    },
+    {
+      "path": "fabrication/experiments/tension/bobbin-base.step",
+      "bytes": 4953,
+      "sha256": "ea2220d19f98b7177d9dcf37cd7a4985f57611d4fa5703f0dfac40a50230adea"
+    },
+    {
+      "path": "fabrication/experiments/tension/bobbin-base.stl",
+      "bytes": 50484,
+      "sha256": "2e79403d8e1459e5499e5bd37e0e100d5a47efee90f32b5e004400203b21d765"
+    },
+    {
+      "path": "fabrication/experiments/tension/brake-spring.step",
+      "bytes": 4959,
+      "sha256": "316d90d1741db40f7d6a0fe9b0d5b9e9b582f1fc2000b6ee51035184ed6698b9"
+    },
+    {
+      "path": "fabrication/experiments/tension/dancer-slider.step",
+      "bytes": 12751,
+      "sha256": "b92ae53c5a35eda8dfa5cfd36bbbdb1831e46083fdef6713c892a3a50d89f87e"
+    },
+    {
+      "path": "fabrication/experiments/tension/dancer-slider.stl",
+      "bytes": 102284,
+      "sha256": "c77ea478b99d4d53e40cfe9947ff13deda39daccd7ac6a02e8045781f2cf15b0"
+    },
+    {
+      "path": "fabrication/experiments/tension/eye-holder.step",
+      "bytes": 31312,
+      "sha256": "0dc8af34dcc28272b58cd6faff4890bb71105c76248530b0470b370d3dbcc76f"
+    },
+    {
+      "path": "fabrication/experiments/tension/eye-holder.stl",
+      "bytes": 66284,
+      "sha256": "a0de89705ed5518678459c344f62350caef4a0b278af4cf91608788a016b2153"
+    },
+    {
+      "path": "fabrication/experiments/tension/felt-brake.step",
+      "bytes": 4953,
+      "sha256": "52b9392ff9b721cefe1489f66679fc516fe443afc2875e8a899dadc0a43bee30"
+    },
+    {
+      "path": "fabrication/experiments/tension/fixed-axle-post.step",
+      "bytes": 4961,
+      "sha256": "7597e37c87545cc394687ae1505cb3afa515552ee0ce22de8636b086d45bd95c"
+    },
+    {
+      "path": "fabrication/experiments/tension/fixed-axle-post.stl",
+      "bytes": 50484,
+      "sha256": "979d2ec22fae9f61257e9cb7e2fab6f66326cd72a706ca97d6b6d8cc592ab8e8"
+    },
+    {
+      "path": "fabrication/experiments/tension/guide-eye.step",
+      "bytes": 4953,
+      "sha256": "5fa174053e820d8c5776b185fdeeadf77f240c8271abc4a1299734c0f12cb01b"
+    },
+    {
+      "path": "fabrication/experiments/tension/guide-rod.step",
+      "bytes": 3530,
+      "sha256": "203e06c068cc7b5f6b7af8b90c6cd3307cae8a663535ea06da3fb6b8eed1f432"
+    },
+    {
+      "path": "fabrication/experiments/tension/inner-race-shim.step",
+      "bytes": 4969,
+      "sha256": "5d50aabf6845d51873c5f03e5c6039fc2d8508b4b32c27371127d89eec2ad736"
+    },
+    {
+      "path": "fabrication/experiments/tension/measurements.csv",
+      "bytes": 197,
+      "sha256": "278250039177131ffec25cb83379a1761ace2f550ea36c43f6387287f1fc7f22"
+    },
+    {
+      "path": "fabrication/experiments/tension/moving-axle-post.step",
+      "bytes": 4956,
+      "sha256": "6d28d4a0c699d7bfb08173c9585c0f72fbad9c8d004f42d67752ee887678e59b"
+    },
+    {
+      "path": "fabrication/experiments/tension/moving-axle-post.stl",
+      "bytes": 50484,
+      "sha256": "e32c7ad63ff9f871719dbf8a209bfbff385ccd67f92a111b9dec375296018474"
+    },
+    {
+      "path": "fabrication/experiments/tension/parts.csv",
+      "bytes": 2825,
+      "sha256": "fa918f464c26d2ac235ad89e8215c96975b1be9e459590656c5bf2116bdee342"
+    },
+    {
+      "path": "fabrication/experiments/tension/pulley-retainer.step",
+      "bytes": 4957,
+      "sha256": "6913e3467549a47f96bad8b6c2d38b2f65303076583f30491193642d75e6e514"
+    },
+    {
+      "path": "fabrication/experiments/tension/pulley-retainer.stl",
+      "bytes": 50484,
+      "sha256": "dfa6edb422fbb8a4e2ac56f352e8a6035e22fe9853d2ec5464c3a524e761311f"
+    },
+    {
+      "path": "fabrication/experiments/tension/pulley.step",
+      "bytes": 10657,
+      "sha256": "b59233f5f7651b32dd91c27d7420358261b39131aa8e97a1ec0ea805981aa4a8"
+    },
+    {
+      "path": "fabrication/experiments/tension/pulley.stl",
+      "bytes": 138684,
+      "sha256": "b15493b0ba55f365ee0891596f254638b6640083cd238a2b37646df7ce9e563d"
+    },
+    {
+      "path": "fabrication/experiments/tension/rod-clamp.step",
+      "bytes": 34056,
+      "sha256": "e189dd042aba88df6c4e2ae7c718e92d54685692569ae5778e2977381a3f499b"
+    },
+    {
+      "path": "fabrication/experiments/tension/rod-clamp.stl",
+      "bytes": 127284,
+      "sha256": "8a41b7e2fa0b6d9a5bcdcc88a25d17f32903630280218743b51e1508ef9b24ad"
+    },
+    {
+      "path": "fabrication/experiments/tension/tension-board.20261012-130912.FCBak",
+      "bytes": 81296,
+      "sha256": "bcc38d66485e5e71b4fc8cf16eebed8c558186e320a90d66bc75a214b1ee48f0"
+    },
+    {
+      "path": "fabrication/experiments/tension/tension-board.FCStd",
+      "bytes": 85447,
+      "sha256": "b16803853b2f141618dbf86bf8d83550bac0c6954f8794aa71a3a792852e454d"
+    },
+    {
+      "path": "fabrication/experiments/tension/tension-board.step",
+      "bytes": 295406,
+      "sha256": "1cbeacb26a84cb3ff2da92e938490229137610646256d5c657137ad04dd95e24"
+    },
+    {
+      "path": "fabrication/experiments/transfer/base.dxf",
+      "bytes": 8797,
+      "sha256": "c6f5dec15b392638103cf1a906675063a03a032c73ae92756cb1a132aeef0598"
+    },
+    {
+      "path": "fabrication/experiments/transfer/base.step",
+      "bytes": 12741,
+      "sha256": "dd94117589310974a94ddc9f90a8da31b1d27fea203bf9231da36ac07ec0f033"
+    },
+    {
+      "path": "fabrication/experiments/transfer/base.svg",
+      "bytes": 2256,
+      "sha256": "8371b4ec81cdeeedff10ad6f71bbdf71b4fe50e9b40d24debf115c947f46d75b"
+    },
+    {
+      "path": "fabrication/experiments/transfer/boat-shoe.step",
+      "bytes": 14630,
+      "sha256": "e5444f1503ddc4f9fcc45dd264db4fe4df3bbd84322f6e3bd312af2137f7d71d"
+    },
+    {
+      "path": "fabrication/experiments/transfer/boat-shoe.stl",
+      "bytes": 76884,
+      "sha256": "349f07030ebfe531962560d10d1730097736542b9640f5e5ddb0e3e73040aad6"
+    },
+    {
+      "path": "fabrication/experiments/transfer/cover.dxf",
+      "bytes": 9617,
+      "sha256": "d4b6bcc695f0c7be15679bf8780d4f233041977186e190f50264824b1bf373a1"
+    },
+    {
+      "path": "fabrication/experiments/transfer/cover.step",
+      "bytes": 29826,
+      "sha256": "d854ac4e38ecfbbc58561b3963a5d2b63749d28e76f8e8e7167dec372f720f3e"
+    },
+    {
+      "path": "fabrication/experiments/transfer/cover.svg",
+      "bytes": 2596,
+      "sha256": "4e3e6d11146eda6c37c1803067ceebbf95a3cf18d1bb304eaa3090934616bdd2"
+    },
+    {
+      "path": "fabrication/experiments/transfer/handle.step",
+      "bytes": 13360,
+      "sha256": "e37232e75a18b548e5654de86535259e5037612fa48eb728b3a41553619ead7e"
+    },
+    {
+      "path": "fabrication/experiments/transfer/handle.stl",
+      "bytes": 51684,
+      "sha256": "675d37f5248ca57fcc74ddeca6b2e1a15957597bedfad76c0a702cae9d1ab33c"
+    },
+    {
+      "path": "fabrication/experiments/transfer/parts.csv",
+      "bytes": 519,
+      "sha256": "fc0798355ca1c7e1d7a6cccbd4bce17e06b828402f4123029f10374f210bc67b"
+    },
+    {
+      "path": "fabrication/experiments/transfer/round-shoe.step",
+      "bytes": 8370,
+      "sha256": "9b5178a171c4a4b9b267ee8e272cb92f40bc1b5f2eaa4a4232c9bac98ff4e1fb"
+    },
+    {
+      "path": "fabrication/experiments/transfer/round-shoe.stl",
+      "bytes": 100884,
+      "sha256": "eaa79f712636c703bdab0247b81df4e8c9da02ebe6c0ae5a80d7f6c9dace9672"
+    },
+    {
+      "path": "fabrication/experiments/transfer/track.dxf",
+      "bytes": 9625,
+      "sha256": "48d6f23ab5667fd9a2db82b6037537c1fd54a8e026dd59026c55cbff7ae67dec"
+    },
+    {
+      "path": "fabrication/experiments/transfer/track.step",
+      "bytes": 29836,
+      "sha256": "2acae91e9e44ad11098e968e25354d4aaf5f7b2ca8de4946ea88e02b5b1c4c91"
+    },
+    {
+      "path": "fabrication/experiments/transfer/track.svg",
+      "bytes": 2616,
+      "sha256": "2d660cea9728c958d2560cd51c09233ce38674cafde6d7b8af1944580eb0719e"
+    },
+    {
+      "path": "fabrication/experiments/transfer/transfer-coupon.FCStd",
+      "bytes": 13492,
+      "sha256": "0ef8d5f04a1f4bcd79affe31a78b30031e63af533173895a6eb2f6bc683dd097"
+    },
+    {
+      "path": "fabrication/experiments/transfer/transfer-coupon.step",
+      "bytes": 97885,
+      "sha256": "dddac5f21538f25ac5fce96831b27e972215c74eaac952158605d6806411e8f6"
     },
     {
       "path": "fabrication/laser/base-12.dxf",
@@ -834,8 +1179,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 11080,
-      "sha256": "8354188ce231bc4788f4a872cb35f1d2f66771a82fce0bd29f335ec9c47c4761"
+      "bytes": 11248,
+      "sha256": "cac33e6eb86b1eadd18ee0d1c24fccbad9ed6f676d83a50dc1b951e72c7be9c5"
     },
     {
       "path": "models/assembly-12.json",
@@ -908,14 +1253,24 @@
       "sha256": "46f8213712d83167c8f87bdbee3a55cf70b0b0f65a0f39c189d7baf4892edb72"
     },
     {
+      "path": "models/tension-test.json",
+      "bytes": 1104680,
+      "sha256": "7c532d804d1475a1535cbea89f76f86a0dfc4759e9b317b90291323420e04a91"
+    },
+    {
+      "path": "models/transfer-test.json",
+      "bytes": 380141,
+      "sha256": "e8f549047f5d57d523766667dfe03504a7fde29645b299bf3a4f02d1ec188d64"
+    },
+    {
       "path": "package-lock.json",
       "bytes": 15564,
       "sha256": "32f80bf3c2f720817c42da7171b38a3c2e9ad597fe0d5483e9bf5f27dc3c7364"
     },
     {
       "path": "package.json",
-      "bytes": 655,
-      "sha256": "8eb6343d9edcb13b1ae29248ac21fcff17b052b7dd1132a95bc389591412af88"
+      "bytes": 977,
+      "sha256": "0e1b505e423f121ef96fb939abf4390dfca53c012f1bd18117b58bbfeba2cf4f"
     },
     {
       "path": "previews/assembled.png",
@@ -950,7 +1305,7 @@
     {
       "path": "previews/bobbin-tension.png",
       "bytes": 646550,
-      "sha256": "85d28867bddb11363dbc5c79051ebd801cfff840033cee5d70971bce98662623"
+      "sha256": "0e4ec7311fe6af9ea4e6abbf3fa28f58c75af0b4296b051d975c2be4f0f08357"
     },
     {
       "path": "previews/braid-close-12.png",
@@ -999,18 +1354,18 @@
     },
     {
       "path": "previews/formation-industrial-all.png",
-      "bytes": 1438504,
-      "sha256": "c714ffda31156f015ed800c79453fb4eeaba9eabad31d50b1bf8cbd2e5afcbae"
+      "bytes": 1438543,
+      "sha256": "fd182ed6929db646c7cda6dfee8f7ad66f6463f8d36aabe8f42886d8cd1c38c7"
     },
     {
       "path": "previews/formation-industrial.png",
-      "bytes": 508160,
-      "sha256": "e135a6079300c2695520c1a900607aa94ca099c1cebdf736871bf4ff10f00d63"
+      "bytes": 508318,
+      "sha256": "7eb4a353bdb28c15adc1e8fabfb1b1cc9c91d7d3250c843c8d2f37e24663bfbf"
     },
     {
       "path": "previews/formation-mobile-320.png",
-      "bytes": 154056,
-      "sha256": "f39173eeea2b6262f13bc9a0298440f23432c2dd4b9b3cf48f02be2d4f9c738d"
+      "bytes": 154054,
+      "sha256": "3bc8f39db25d7111184b1f94894d0783b339fa0a9ef3c3ef72241fb94a328baa"
     },
     {
       "path": "previews/formation-mobile-390.png",
@@ -1019,18 +1374,18 @@
     },
     {
       "path": "previews/formation-tabletop-all.png",
-      "bytes": 745394,
-      "sha256": "d065b29ce1e84e7de42db51c873faac46c7f067f0962b39aa21653ebb3f1a168"
+      "bytes": 745395,
+      "sha256": "ccec9e7a421d4cb7895b781fd29d772293897205493511f31ad2abdaa5925e29"
     },
     {
       "path": "previews/formation-tabletop.png",
-      "bytes": 665618,
-      "sha256": "ae89638711eb324cabde0f2b5d5462e572d90658fe9ba2d34cfed44d64ad0414"
+      "bytes": 665619,
+      "sha256": "9c38f9765ff970b203faf4a2983043e1fa320ca8fc0360034a07fd083236af2b"
     },
     {
       "path": "previews/industrial-bobbin.png",
-      "bytes": 669400,
-      "sha256": "5fecabf10b76019a2d2f0089954ed4a85ee5374a7236a72bd01de80e8341c9b7"
+      "bytes": 669432,
+      "sha256": "44425cb5c026cb8e533151261c0f0cf5a75703a719d23e0cc945f73108cffbb9"
     },
     {
       "path": "previews/industrial-exploded.png",
@@ -1063,6 +1418,81 @@
       "sha256": "de97c38b21d6eef2a782f7d2d28c5ef0777c7e93641f774d41fca50e7faeb537"
     },
     {
+      "path": "previews/tension-board.png",
+      "bytes": 477752,
+      "sha256": "3f2930adbc9f1be6f6289b21e63f511aa20f36c2a251ba8dc4aeb538f59c3080"
+    },
+    {
+      "path": "previews/tension-empty.png",
+      "bytes": 474214,
+      "sha256": "2051bd5c3b155d6ef1d610c63a0c35a815cc00df2f1ad04041be02c7217d10a4"
+    },
+    {
+      "path": "previews/tension-mobile.png",
+      "bytes": 103866,
+      "sha256": "1bf996d7890383483eab331006e8598845d582e6415c28dc3fec011432fa8559"
+    },
+    {
+      "path": "previews/transfer-mobile.png",
+      "bytes": 110576,
+      "sha256": "21580366253cb89d57b950ad29a12be727a9a162fc684bd6e6929eee173bd7e6"
+    },
+    {
+      "path": "previews/transfer-round.png",
+      "bytes": 390474,
+      "sha256": "4f8bf432dfc41a0ae4a96aaaf223ac645d0d775f3d19baeeb31cc77d7c80e645"
+    },
+    {
+      "path": "previews/transfer-shoe.png",
+      "bytes": 394017,
+      "sha256": "a3b126658e342ba6cf238b9e432c7663a6fe549bd90b2465dde3bf21fb70c299"
+    },
+    {
+      "path": "social/README.md",
+      "bytes": 1534,
+      "sha256": "076252668f1bab5148f99c5fa5804d4bbad2372ffe2ab3b1427a30f2b55da08e"
+    },
+    {
+      "path": "social/braidbench-industrial.mp4",
+      "bytes": 16974502,
+      "sha256": "d73223ab376895fd52aaa069ee1f0800e3d32f5bf6691fb20261b1b03215e2e8"
+    },
+    {
+      "path": "social/braidbench-industrial.srt",
+      "bytes": 321,
+      "sha256": "6be1b3f757152c5ab7877fd36d3ddb2f156799cd3e8cfaa5dd7ba42fb5be6b9f"
+    },
+    {
+      "path": "social/braidbench-tabletop.mp4",
+      "bytes": 2907815,
+      "sha256": "109e53357a899dd8ec10f82fb720f93996b46fecc620862040811509f5c9d71c"
+    },
+    {
+      "path": "social/braidbench-tabletop.srt",
+      "bytes": 309,
+      "sha256": "be7eac69e8b2f18685675eff8e32debbf745b5c89205c755e2fdabbcc2336d65"
+    },
+    {
+      "path": "social/industrial-export.json",
+      "bytes": 2711,
+      "sha256": "d33ccce1c0d64e9e8adf0b1e345dba1ce4c8c5ca582e961a4e261f7871d39300"
+    },
+    {
+      "path": "social/industrial-poster.png",
+      "bytes": 763083,
+      "sha256": "12c731efa64159adb2e92a1ab581efd0b885e8414bc8d3a9fe8248c2d7dadf13"
+    },
+    {
+      "path": "social/tabletop-export.json",
+      "bytes": 2686,
+      "sha256": "680164be6dbf40e9130bc1b4e98fb3eac38b2e49517829eebbcc1c99be9f7d93"
+    },
+    {
+      "path": "social/tabletop-poster.png",
+      "bytes": 846599,
+      "sha256": "abfabf82ee51c9bb85f55ca79578c8332516075fb1d720ff05d5677dccec7edd"
+    },
+    {
       "path": "start.sh",
       "bytes": 174,
       "sha256": "53674e3bcfd93567e52b9e0b5defed60a564fe74f8736e7012f40c68155b0240"
@@ -1074,8 +1504,8 @@
     },
     {
       "path": "tools/build_offline.py",
-      "bytes": 1597,
-      "sha256": "eaa3eff2d95430d3eb3762a14faeb1994eb6d71f66d370c1e7ac7de5027ace94"
+      "bytes": 2956,
+      "sha256": "9dec7d55039189a8521637753bb1d74bb20d1921f470b364567ac606e25f6467"
     },
     {
       "path": "tools/certify_formation.py",
@@ -1091,6 +1521,11 @@
       "path": "tools/check_carriers.py",
       "bytes": 3301,
       "sha256": "26cacffcb25d39d4d41aec492e8c7c577395304c577b24c57433a9a06bb8cb7e"
+    },
+    {
+      "path": "tools/check_experiment_offline.cjs",
+      "bytes": 1579,
+      "sha256": "3642e7789f858dd88902517882e1fc98a2680f0289263d7a94c5e7c469253eed"
     },
     {
       "path": "tools/check_firmware.py",
@@ -1138,6 +1573,36 @@
       "sha256": "b4c4771d1faf64fe61ce1320303415ab317c27ff2ff3281feaca4bbc5881ecf5"
     },
     {
+      "path": "tools/check_tension.mjs",
+      "bytes": 1051,
+      "sha256": "8188af6f3cc5e0aa430c60fb9540b46a9b4ae087e998e162690aeda6cf4c7068"
+    },
+    {
+      "path": "tools/check_tension_browser.cjs",
+      "bytes": 2471,
+      "sha256": "a5805ee691ab72e12e9c079bd8570cddcb5954438825077de7d91fd93dad53f9"
+    },
+    {
+      "path": "tools/check_tension_solids.py",
+      "bytes": 1713,
+      "sha256": "8ca04b90f85121fe4e692930604775f52c3a453b277078bf6ecc8fb05d8c4ca2"
+    },
+    {
+      "path": "tools/check_transfer.mjs",
+      "bytes": 1058,
+      "sha256": "4b3d739bc71524aee2b7b40be6f89fd3eb311ea9ceebc9fe81f99ac66765b74a"
+    },
+    {
+      "path": "tools/check_transfer_browser.cjs",
+      "bytes": 2248,
+      "sha256": "04acf88b5f1d1733b1664d1eaf881e733a16a94025493329cf83e758b0f5b5d0"
+    },
+    {
+      "path": "tools/check_transfer_solids.py",
+      "bytes": 1815,
+      "sha256": "01df9a2519bfd3b8540d46bb449d5e13dae705063c9eed278cd27081c5aa4f67"
+    },
+    {
       "path": "tools/check_viewer.cjs",
       "bytes": 10762,
       "sha256": "0c100c0ee0d7e8f36a5cb05b0e1b7eda88c980fc6e93b24ffcdc94f4953fec5e"
@@ -1156,6 +1621,11 @@
       "path": "tools/export_braid_source.mjs",
       "bytes": 1841,
       "sha256": "ec44e030210c72b6241bab31fd54b3fed1eceed67b50c04e5412f78b2b0c4b30"
+    },
+    {
+      "path": "tools/export_social.cjs",
+      "bytes": 7613,
+      "sha256": "6b63ccb85a110f4ad6a0493b5574089ebbfa521546d088d02b8d245d3ef111d1"
     },
     {
       "path": "tools/export_supply_paths.mjs",
@@ -1188,9 +1658,19 @@
       "sha256": "e94f54f11a98ae58e231b8898cbf80e227f5c3da81242e3850b9046d23479bd6"
     },
     {
+      "path": "tools/generate_tension_test.py",
+      "bytes": 9796,
+      "sha256": "530c4ae1d5cd58f2dd46a9b14c0629b4dc43824480bd1cbd81d1838ca9aeb3da"
+    },
+    {
+      "path": "tools/generate_transfer_test.py",
+      "bytes": 5012,
+      "sha256": "c83ec7f6dff1d3295028b3d9ae5d42fe74189f0ddb6316d9299b0904a8b863e5"
+    },
+    {
       "path": "tools/package.py",
-      "bytes": 2048,
-      "sha256": "725284ddeafc53b04755f13a60d64c6c7d9383a1cf603547f1cfa53e9e3c5c28"
+      "bytes": 2059,
+      "sha256": "127626229a030f9142649d12c3a5ee8580e321ba91f11dd16438657dffe3e9a3"
     },
     {
       "path": "tools/refresh_track_drawings.py",
@@ -1206,6 +1686,11 @@
       "path": "tools/relax_formation.py",
       "bytes": 8895,
       "sha256": "3a9abfa64270c3643e6265f9c1f356bd3a9cc313d8c80a9b1a597ca17dc12df7"
+    },
+    {
+      "path": "tools/summarize_experiments.py",
+      "bytes": 1465,
+      "sha256": "55f12c965da41fb84211842929fef736ec779a715ef465a66bc08cbdfde83d43"
     },
     {
       "path": "tools/summarize_geometry.py",
@@ -1224,8 +1709,8 @@
     },
     {
       "path": "viewer/app.js",
-      "bytes": 25494,
-      "sha256": "61356877b8b092fcfa60fa5d200298c912564538370f60ee6f643a4df5f92e1f"
+      "bytes": 26276,
+      "sha256": "e27fd46f4e2ece1889de5505dae58fed53bef37999b36d6e7006bb19d5cc6f28"
     },
     {
       "path": "viewer/braid-profile.mjs",
@@ -1234,8 +1719,8 @@
     },
     {
       "path": "viewer/bundle.js",
-      "bytes": 660965,
-      "sha256": "d43a924c69dc932c807fc1c54b63ffea0a8839cd8368e35171784907dac5c093"
+      "bytes": 661422,
+      "sha256": "92a9724304f6639210f9765a595895c60ee39d378a1077b75003fbae41041478"
     },
     {
       "path": "viewer/guide-comb.mjs",
@@ -1293,6 +1778,21 @@
       "sha256": "475483f9585f34b331316b1f8b7f7a0ebd8e34a3c5b1859d15a0744aa5ba9639"
     },
     {
+      "path": "viewer/tension-bundle.js",
+      "bytes": 580618,
+      "sha256": "16b765a9dd08084e755052d2c56962beea3d9f105763dbabd64ec53ad9192eec"
+    },
+    {
+      "path": "viewer/tension-lab.mjs",
+      "bytes": 5557,
+      "sha256": "0b24295ca28f30b57473b96b5995888696f0796887f53b3a586439731048df04"
+    },
+    {
+      "path": "viewer/tension-mechanics.mjs",
+      "bytes": 1210,
+      "sha256": "7ea7eeb2f29ea91eeb8c72df618d9094208360b0803f1e764b78c27bbb4e3ba2"
+    },
+    {
       "path": "viewer/tension-motion.mjs",
       "bytes": 1019,
       "sha256": "4d187a23f2a7fcab4da13c19d52ce9eef19d04dc7087e6e46c67b7020ba7147e"
@@ -1301,6 +1801,21 @@
       "path": "viewer/tension-view.mjs",
       "bytes": 5779,
       "sha256": "b97b325187899a9b695721d11db18f9343bc07ee00b431d7eb66237bc715056d"
+    },
+    {
+      "path": "viewer/transfer-bundle.js",
+      "bytes": 563094,
+      "sha256": "cd94b14a4483ecce74e09c4caa641e58e65058130c968fa3c571cc324abb2f36"
+    },
+    {
+      "path": "viewer/transfer-contact.mjs",
+      "bytes": 2002,
+      "sha256": "643ef8fb73359598336bdc807cb10bcda50b78f75c5711bcae3e0448eafece45"
+    },
+    {
+      "path": "viewer/transfer-lab.mjs",
+      "bytes": 5077,
+      "sha256": "cbae8758a475e4fc416c6cad35ec7a0cb3520300a8bd42020b4bae0c23814b6e"
     },
     {
       "path": "viewer/vendor/OrbitControls.js",

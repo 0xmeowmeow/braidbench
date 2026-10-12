@@ -7,77 +7,58 @@
   "source": "actual Braidbench WebGL scene",
   "audio": "none",
   "page_errors": [],
-  "shots": {
-    "tabletop": [
-      {
-        "start": 0,
-        "end": 4,
-        "focus": "track",
-        "phase": 0.45,
-        "rate": 0.65,
-        "zoom": 0.81,
-        "title": "How does motion<br>become a braid?",
-        "caption": "Eight moving bobbins exchange places.",
-        "tag": "08 STRANDS / TABLETOP"
-      },
-      {
-        "start": 4,
-        "end": 8,
-        "focus": "bobbin",
-        "phase": 3.0500000000000003,
-        "rate": 0.44,
-        "zoom": 0.85,
-        "title": "Follow the<br>thread.",
-        "caption": "The spool pays out. The dancer stores slack.",
-        "tag": "BOBBIN → GUIDES → BRAID"
-      },
-      {
-        "start": 8,
-        "end": 18,
-        "focus": "formation",
-        "phase": 4.8100000000000005,
-        "rate": 0.3,
-        "zoom": 0.87,
-        "title": "Watch the<br>crossings form.",
-        "caption": "The take-up carries those crossings into the cord.",
-        "tag": "THE FORMING POINT / EXPOSED"
-      }
-    ],
-    "industrial": [
-      {
-        "start": 0,
-        "end": 4,
-        "focus": "track",
-        "phase": 0.35,
-        "rate": 0.4,
-        "zoom": 0.78,
-        "title": "72 carriers.<br>576 wires.",
-        "caption": "Two families of bobbins travel around the core.",
-        "tag": "CABLE OVERBRAID / 72 × 8"
-      },
-      {
-        "start": 4,
-        "end": 8,
-        "focus": "bobbin",
-        "phase": 1.9500000000000002,
-        "rate": 0.35,
-        "zoom": 1.05,
-        "roll": -1.5707963267948966,
-        "title": "One bobbin.<br>Eight ends.",
-        "caption": "Separate guides keep the parallel wires ordered.",
-        "tag": "FOLLOW THE SUPPLY"
-      },
-      {
-        "start": 8,
-        "end": 18,
-        "focus": "formation",
-        "phase": 3.35,
-        "rate": 0.24,
-        "zoom": 0.9,
-        "title": "Every wire.<br>Every crossing.",
-        "caption": "Individual paths interlace around the cable core.",
-        "tag": "THE FORMING POINT / EXPOSED"
-      }
-    ]
+  "shots": [
+    {
+      "start": 0,
+      "end": 4,
+      "focus": "track",
+      "phase": 0.35,
+      "rate": 0.4,
+      "zoom": 0.78,
+      "title": "72 carriers.<br>576 wires.",
+      "caption": "Two families of bobbins travel around the core.",
+      "tag": "CABLE OVERBRAID / 72 \u00d7 8"
+    },
+    {
+      "start": 4,
+      "end": 8,
+      "focus": "bobbin",
+      "phase": 1.9500000000000002,
+      "rate": 0.35,
+      "zoom": 1.05,
+      "roll": -1.5707963267948966,
+      "title": "One bobbin.<br>Eight ends.",
+      "caption": "Separate guides keep the parallel wires ordered.",
+      "tag": "FOLLOW THE SUPPLY"
+    },
+    {
+      "start": 8,
+      "end": 18,
+      "focus": "formation",
+      "phase": 3.35,
+      "rate": 0.24,
+      "zoom": 0.9,
+      "title": "Every wire.<br>Every crossing.",
+      "caption": "Individual paths interlace around the cable core.",
+      "tag": "THE FORMING POINT / EXPOSED"
+    }
+  ],
+  "source_hashes": {
+    "viewer/app.js": "e27fd46f4e2ece1889de5505dae58fed53bef37999b36d6e7006bb19d5cc6f28",
+    "viewer/tabletop-supply.mjs": "475483f9585f34b331316b1f8b7f7a0ebd8e34a3c5b1859d15a0744aa5ba9639",
+    "viewer/tension-view.mjs": "b97b325187899a9b695721d11db18f9343bc07ee00b431d7eb66237bc715056d",
+    "viewer/industrial-supply.mjs": "103a0f926f6002cf8573a80b65a62d4524d9776def4df5fb128eb8466f93ee19",
+    "viewer/guide-comb.mjs": "54a32ef71d32ce8186e27fe2e18614d1222d633a1cb355a90ad8e5148fae080e",
+    "viewer/industrial.mjs": "7139b124e9da57afb85c97e31f2bfee74893c62a25f57f4f10d11366591cf402",
+    "viewer/strand-sampling.mjs": "55be73b24f10fb8c866134b6143a841d10edf08e2217969e9fe2a4cf4ff337cc",
+    "viewer/horn-geometry.mjs": "27bdafec5d16f3a02006037f5dbce04040a67c667e96db4282cc70effd99ed87",
+    "viewer/motion.mjs": "882e4b0bc5333282d501858485720f2689031c0295757e1737197e6329290382",
+    "viewer/strand-tube.mjs": "749d892a7dabe09cdb1e279792496f3c8f6c897c1003ba11ed3c7bf3e45cef75",
+    "viewer/yarn-motion.mjs": "c75b6473f9d7b8faef774a1a77013737a0b37ae7af697e2955054c32223ac546",
+    "viewer/strand-output.mjs": "9f573f845ebb393c5882c467b125bb174595f35f20cf3b081d93615221fd6ec4",
+    "viewer/tension-motion.mjs": "4d187a23f2a7fcab4da13c19d52ce9eef19d04dc7087e6e46c67b7020ba7147e",
+    "viewer/strand-view.mjs": "8fd7852b8116cdec0e80b12e488159a3e5e6c49515ea994ee6320cada46a2d23",
+    "viewer/braid-profile.mjs": "2a5f3544a09d7f269828ca9b2b1bd420202bec5cdb227f2e93a5edd25d44a00c",
+    "models/braid-profile-72.json": "b1b9eaea909f03eb294df91dc5d37049d1159a10e889bb297c68efb426e677d4"
   }
 }

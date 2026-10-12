@@ -1,0 +1,10 @@
+import {contactAt,constrainedMove} from '../viewer/transfer-contact.mjs';
+import fs from 'node:fs';
+const origin={x:0,y:0,yaw:0},target={x:0,y:0,yaw:Math.PI/3};
+const boat=constrainedMove(origin,target,'boat'),round=constrainedMove(origin,target,'round');
+if(!boat.blocked||round.blocked)throw Error('Crossing control failed');
+for(const kind of ['boat','round'])for(let i=-350;i<=350;i++)if(!contactAt(i/10,0,0,kind).free)throw Error('Straight traverse is obstructed');
+const poses=[];
+for(const x of [-30,-15,-6,-3,0,3,6,15,30])for(const degrees of [-60,-30,-5,0,5,30,60])for(const kind of ['boat','round'])poses.push({x,y:0,yaw:degrees*Math.PI/180,kind,...contactAt(x,0,degrees*Math.PI/180,kind)});
+fs.writeFileSync(process.argv[2]||'/tmp/transfer-contact-poses.json',JSON.stringify({boat_stop_degrees:boat.yaw*180/Math.PI,round_reaches_degrees:round.yaw*180/Math.PI,straight_traverse_poses:1402,poses}));
+console.log(`Boat stops at ${boat.yaw*180/Math.PI}°; round control reaches 60°. Exported ${poses.length} poses for independent BREP comparison.`);

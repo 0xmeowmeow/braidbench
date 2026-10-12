@@ -1,0 +1,10 @@
+{
+  "status": "Browser contact and exported solids agree",
+  "tested_poses": 126,
+  "maximum_volume_difference_mm3": 8.316760613524821e-10,
+  "mismatches": [],
+  "straight_traverse_poses": 1402,
+  "boat_stop_degrees_at_centre": 2.169785544276237,
+  "round_control_reaches_degrees_at_centre": 59.99999999999999,
+  "scope": "Fixed-centre turn and sampled straight traverse of an isolated 60-degree crossing coupon. No full configuration-space separation proof, gear handoff, curved track, force model or physical qualification."
+}

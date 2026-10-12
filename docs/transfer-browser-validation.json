@@ -1,0 +1,7 @@
+{
+  "pointed_shoe_turn": "blocked while retaining a collision-free actual pose",
+  "round_control_turn": "60 degrees permitted",
+  "straight_traverse": "-35 to +35 mm permitted",
+  "mobile_width": 390,
+  "page_errors": []
+}

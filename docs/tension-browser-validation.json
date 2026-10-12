@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "checks": [
+    "package radius reverses ideal imbalance",
+    "two-leg loop stores 80 mm over 40 mm travel",
+    "front camera",
+    "390 px mobile without overflow",
+    "offline file loads and controls work"
+  ],
+  "page_errors": []
+}

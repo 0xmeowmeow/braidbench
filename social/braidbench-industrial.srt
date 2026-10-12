@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:04,000
+72 carriers. 576 wires.
+Two families of bobbins travel around the core.
+
+2
+00:00:04,000 --> 00:00:08,000
+One bobbin. Eight ends.
+Separate guides keep the parallel wires ordered.
+
+3
+00:00:08,000 --> 00:00:18,000
+Every wire. Every crossing.
+Individual paths interlace around the cable core.

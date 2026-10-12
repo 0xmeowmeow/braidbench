@@ -1,0 +1,47 @@
+{
+  "status": "Nominal solids and straight traverse pass",
+  "parts": [
+    {
+      "part": "base",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 71782.09913354703
+    },
+    {
+      "part": "track",
+      "valid": true,
+      "solids": 4,
+      "volume_mm3": 60144.25426642124
+    },
+    {
+      "part": "cover",
+      "valid": true,
+      "solids": 4,
+      "volume_mm3": 32043.786888947085
+    },
+    {
+      "part": "boat-shoe",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 895.0325710731335
+    },
+    {
+      "part": "round-shoe",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 216.06617634329163
+    },
+    {
+      "part": "handle",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 711.7937460189279
+    }
+  ],
+  "straight_traverse_poses": 71,
+  "maximum_interference_mm3": 0.0,
+  "floor_clearance_mm": 0.3,
+  "roof_clearance_mm": 0.3,
+  "side_clearance_mm": 0.3,
+  "scope": "Hand-operated 60-degree crossing coupon. No horn drive, curved track, loads, kerf or physical build qualification."
+}

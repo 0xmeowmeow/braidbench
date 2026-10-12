@@ -11,7 +11,7 @@ class Links(HTMLParser):
   for k,v in attrs:
    if k in ['href','src'] and v:self.links.append(v)
 missing=[]
-for html in [root/'index.html',root/'OPEN-MODEL.html',*sorted((root/'docs').glob('*.html'))]:
+for html in [root/'index.html',*sorted(root.glob('OPEN-*.html')),*sorted((root/'docs').glob('*.html'))]:
  p=Links();p.feed(html.read_text())
  for link in p.links:
   u=urlparse(link)

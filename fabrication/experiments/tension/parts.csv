@@ -1,0 +1,30 @@
+part,quantity,process,notes
+board,1,laser,"6 mm plywood, 120 × 180 mm. Clamp upright; do not operate flat."
+guide-rod,2,hardware,4 mm smooth rod × 147 mm; two required; deburr ends.
+rod-clamp,4,printed,4.2 mm rod bore; two M3 mount holes; tap central top hole M3 for a rod-retaining screw.
+dancer-slider,1,printed,Two 4.3 mm rod bores. Central M3 pulley axle and lower M3 attachment for a hanging mass; measure total moving mass.
+moving-axle-post,1,printed,Spacer from slider front to bearing inner-race spacer.
+M3-moving-axle,1,hardware,"M3 × 25 moving pulley axle, with locknut and inner-race washers."
+pulley,2,printed,20 mm groove diameter; 10.15 mm × 4.15 mm seat for a 623 bearing. Check actual bearing and printed fit.
+pulley-retainer,2,printed,Bond only the outer annulus to pulley back after fitting bearing; do not bond bearing races or seal.
+623-bearing,2,hardware,623 bearing envelope: 3 × 10 × 4 mm; SKF catalogue reference in the guide.
+inner-race-shim,2,hardware,"0.25 mm inner-race shim, 4.2 mm OD; use measured metal stock."
+axle-washer,2,hardware,Small washer contacting only the bearing inner race; 5 mm OD.
+fixed-axle-post,1,printed,"Spacers for fixed return pulley and output eye, from board front to bearing inner-race spacer."
+M3-fixed-axle,1,hardware,"M3 × 40 fixed pulley axle, with locknut and inner-race washers."
+eye-holder,1,printed,"Ceramic eye cup, axis along Y. Bond ceramic in 8.15 mm seat; captured M3 nut at the board-facing base. Fit a rear M3 × 10 bolt."
+guide-eye,1,hardware,Smooth ceramic guide eye envelope; procure to measured bore and mounting size.
+M6-spindle,1,hardware,"M6 smooth-shank bolt/spindle; 70 mm reference length, retain at board and adjust brake preload."
+bobbin-base,1,printed,M6 axle stand-off from board to the felt washer.
+felt-brake,1,hardware,"1 mm felt washer; friction is to be measured, not assumed."
+bench-bobbin,1,printed,"26 mm flanges, 39 mm total height, 6.4 mm spindle bore; print in two pieces or support the upper flange."
+brake-spring,1,hardware,Compression spring envelope only; measure preload and resulting torque.
+M6-nut,1,hardware,M6 adjustment nut envelope; threads and flats not represented.
+"M3 × 30 clamp mounting bolt, washer and nut",8,hardware,"Two per rod clamp, through board"
+M3 × 6 rod retaining screw,4,hardware,Tap the printed clamp hole M3
+M3 eye bolt and nut,1,hardware,Mass hanger at lower slider hole
+Measured hanging masses,1,hardware,"Include slider, moving pulley and fittings in total moving mass"
+Clamps or backboard mounting screws,2,hardware,Secure board vertically
+M6 washer and retaining nut,2,hardware,Spindle retention and brake adjustment
+M3 × 10 bolt and M3 nut,1,hardware,Ceramic eye holder to board
+M3 locknuts,2,hardware,Pulley axle retention; do not clamp rotating races

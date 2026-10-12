@@ -1,0 +1,9 @@
+{
+  "status": "pass",
+  "poses": 41,
+  "represented_solids": 30,
+  "brep_pairs_checked": 2379,
+  "maximum_overlap_mm3": 0.0,
+  "failures": [],
+  "limits": "Sampled nominal BREP intersections. Fastener heads/nuts/threads, hanging mass, yarn package, tolerances, friction and strength are not qualified. Bearing and spring internals use envelopes."
+}

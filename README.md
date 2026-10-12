@@ -1,5 +1,7 @@
 # Braidbench
 
+[GitHub repository](https://github.com/0xmeowmeow/braidbench) · [Sharing videos and captions](social/README.md) · [Development status](docs/development.md)
+
 **Mechanism study; not a qualified build.** The close-ups now show compact, solid strands and an exposed formation zone. Every wire retains its moving guide’s crossing partners and over/under order; finite-wire separation is checked in the output and continuously through formation. Payout, return pulleys and moving dancers remain visible. [The audit](docs/mechanism-audit.html) explains the evidence and the unresolved physical mechanism. Deployment is waiting for review.
 
 Original braiding-machine engineering study: 8, 12 and 16 moving strands; laser-cut frame, printed rotors and carriers, ESP32 control.
@@ -21,7 +23,12 @@ Read [the illustrated build guide](docs/build-guide.html) before fabrication. **
 
 Assumptions: 600 × 400 mm laser bed, 220 × 220 mm printer, 0.45 mm tabletop strands and 0.16 mm industrial wires in the geometric model; actual material and hardware still require qualification. Flat 3/5/7-strand braids are described as a different-cartridge expansion; they have no fabrication CAD here.
 
-Next physical step: develop positive guidance and hand-test two neighbouring rotors, using the fit coupon to establish real clearances. The ideal motion simulation forces transfers and cannot establish that a carrier will follow them.
+Two separate bench experiments now make those questions testable:
+
+- Open [OPEN-TRANSFER-TEST.html](OPEN-TRANSFER-TEST.html): compare a round foot with a pointed shoe at a 60° crossing. Real outline contact stops the requested rotation. Laser/print files, CAD and hand-test instructions are included.
+- Open [OPEN-TENSION-TEST.html](OPEN-TENSION-TEST.html): vary package radius, brake torque, moving mass and dancer travel. Includes a printable/laser-cut calibration board and a blank measurement worksheet.
+
+These are original development coupons, not replacement parts for the complete braider. The next integration step is a coupled curved-track/shoe/horn design and two-rotor hand test. The main animation still prescribes transfers.
 
 Three.js is distributed under its included MIT license. Mechanism precedents and electronics sources are linked in the build guide; no third-party braider CAD is redistributed.
 
@@ -30,3 +37,5 @@ The guide post interference was corrected and all tabletop CAD formats regenerat
 The [geometry report](docs/geometry-validation.json) links all configuration checks and identifies the exact profile assets. [Reproduction notes](docs/validation-method.html) cover the topology comparison, continuous clearance bounds, supply routing, surface checks and offline build. Python geometry tools require NumPy and SciPy. No physical-force calibration, complete carrier-shoe design, full assembly interference qualification or real ESP32 bench test is claimed.
 
 For development, install Node 20+ and Python 3, run `npm install`, then `npx playwright install chromium` for browser checks. `npm start` serves the viewer, `npm run build` refreshes the offline copy, and `npm test` checks carrier motion and material accounting. Geometry checks also need NumPy and SciPy; see the reproduction notes above.
+
+`npm run test:experiments` checks the bench models' contact and length/force calculations. `npm run test:experiments:browser` checks their controls, mobile layouts and offline files. With FreeCAD installed, `python3 tools/check_transfer_solids.py` compares browser contact with the CAD, and `python3 tools/check_tension_solids.py` checks the represented tension-board solids across the used stroke. Run `node tools/check_transfer.mjs` first to produce its temporary CAD comparison poses.

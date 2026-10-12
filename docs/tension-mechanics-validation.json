@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "mass_g": 40,
+  "ideal_tension_N": 0.196133,
+  "brake_torque_Nmm": 2,
+  "full_package_pull_N": 0.18181818181818182,
+  "empty_package_pull_N": 0.3846153846153846,
+  "positions_checked": 123,
+  "maximum_two_leg_storage_error_mm": 2.842170943040401e-14,
+  "limits": "Ideal force balance and route-length accounting, not friction or dynamic validation."
+}

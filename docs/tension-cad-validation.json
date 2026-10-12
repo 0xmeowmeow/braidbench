@@ -1,0 +1,141 @@
+{
+  "status": "Nominal component solids and selected clearance checks pass",
+  "parts": [
+    {
+      "part": "board",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 128741.02573665557
+    },
+    {
+      "part": "rod-clamp",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3372.3114834027165
+    },
+    {
+      "part": "dancer-slider",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 8392.534118982072
+    },
+    {
+      "part": "guide-rod",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1847.2564803107985
+    },
+    {
+      "part": "pulley",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1643.5142156238403
+    },
+    {
+      "part": "pulley-retainer",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 324.715016675041
+    },
+    {
+      "part": "623-bearing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 285.88493147667117
+    },
+    {
+      "part": "fixed-axle-post",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 461.2863325118965
+    },
+    {
+      "part": "moving-axle-post",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 137.57662548600422
+    },
+    {
+      "part": "inner-race-shim",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1.4529866022852795
+    },
+    {
+      "part": "axle-washer",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 5.796238445873167
+    },
+    {
+      "part": "guide-eye",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 86.39379797371933
+    },
+    {
+      "part": "eye-holder",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1563.495385060674
+    },
+    {
+      "part": "bench-bobbin",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3617.9837635801505
+    },
+    {
+      "part": "bobbin-base",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 221.63936171075989
+    },
+    {
+      "part": "felt-brake",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 121.76813125314041
+    },
+    {
+      "part": "brake-spring",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 205.8371506632032
+    },
+    {
+      "part": "M6-spindle",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1979.20337176157
+    },
+    {
+      "part": "M6-nut",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 241.7455546937346
+    },
+    {
+      "part": "M3-fixed-axle",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 282.7433388230814
+    },
+    {
+      "part": "M3-moving-axle",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 176.71458676442586
+    }
+  ],
+  "dancer_travel_mm": 40,
+  "stored_length_range_mm": 80,
+  "slider_poses": 41,
+  "maximum_rod_slider_intersection_mm3": 0.0,
+  "pulley_to_stationary_spacer_intersections_mm3": {
+    "fixed-axle-post": 0.0,
+    "inner-race-shim": 0.0,
+    "axle-washer": 0.0
+  },
+  "limits": "Calibration board, not an integrated carrier. Mounting fasteners, threads and bearing internals are represented by envelopes or specified hardware. No full assembly, friction, wear, strength, brake regulation or physical validation."
+}
