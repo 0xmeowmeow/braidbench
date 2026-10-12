@@ -1,0 +1,13 @@
+# Static Braidbench publication on the existing DreamHost site.
+AddType application/javascript .mjs
+AddType application/json .json
+AddType video/mp4 .mp4
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE application/javascript application/json
+</IfModule>
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|js|mjs|css|json)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+</IfModule>
+Options -Indexes

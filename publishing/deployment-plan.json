@@ -1,0 +1,14 @@
+{
+  "site_url": "https://meow-meow.io/braidbench/",
+  "host_alias": "mm",
+  "remote_directory": "/home/dh_9vppcg/meow-meow.io/braidbench/",
+  "homepage_base_sha256": "dc8f836d91bb1089f82b65da3f18a2fc49ae9d13d2ae28d32dfdf85659b156cb",
+  "updates_base_sha256": "4a5a8ce8181ae9b027eddb2c181f1a32f391b1905136c8a08c1fd36458f3b491",
+  "publication_order": [
+    "project files and downloads",
+    "live model/resource checks",
+    "homepage and update feed",
+    "live browser check"
+  ],
+  "scope": "Existing DreamHost site. Additive project upload; only the two homepage/feed files are replaced after preserving their existing content. GitHub repository visibility remains private."
+}

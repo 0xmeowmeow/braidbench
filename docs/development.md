@@ -24,7 +24,7 @@ The braid geometry is inspectable and checked at the stated scopes. The complete
 | Integrate detailed supply hardware on a moving carrier | Qualified transfer and measured supply hardware | STEP/STL/BOM/viewer agree, full assembly contact/clearance and fastener retention are checked, hand-driven cycle passes. |
 | Bench-test ESP32 and drive electronics | Qualified hand mechanism, actual drivers/motors | Verify enable polarity, stop chain, pulse timing, homing and conservative speed settings on the bench. The existing starter firmware remains disabled for unqualified motion. |
 | Braid physical samples and compare | Working hand mechanism and measured tension | Record material, pitch, force, defects and torsion; compare with the model and retain mismatches. |
-| Publish the website | User review and deployment instruction | Review the current model and its evidence limits; GitHub publication does not deploy the site. |
+| Complete the physical build review | Integrated mechanism and measured samples | The public viewer is a geometric study; publication does not establish hardware readiness. |
 
 The two bench assemblies are independent development instruments. Their parts are deliberately stored in `fabrication/experiments/`; they do not silently replace the main machine's unfinished carrier hardware.
 

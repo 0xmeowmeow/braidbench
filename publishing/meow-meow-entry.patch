@@ -1,0 +1,41 @@
+--- a/index.html
++++ b/index.html
+@@ -65,6 +65,15 @@
+     </a>
+ 
+     <div class="works">
++      <a class="work" href="/braidbench/">
++        <svg viewBox="0 0 960 600" aria-hidden="true">
++          <image href="/braidbench/share/braidbench.jpg" width="960" height="600" preserveAspectRatio="xMidYMid slice"/>
++        </svg>
++        <span class="work-kd">new · 3D · mechanism study</span>
++        <b>Braidbench</b>
++        <span>How does motion become a braid? Follow the thread from moving bobbins into the crossings: eight strands to 576 wires. Rotate, explode and slow the model; explore prototype fabrication files and bench tests.</span>
++      </a>
++
+       <a class="work" href="/meowtext/">
+         <svg viewBox="0 0 960 600" aria-hidden="true">
+           <image href="/meowtext/assets/tile.png" width="960" height="600"/>
+@@ -281,6 +290,7 @@
+   <section>
+     <h2>Updates</h2>
+     <div class="tiles" id="tiles">
++      <a class="tile" href="/braidbench/"><span class="tile-head"><span class="tile-dt">2026-10-12</span><span class="tile-mk">⋆</span><span class="tile-kd">project</span></span><b class="tile-ti">Braidbench</b><span class="tile-desc">Follow every strand from its moving bobbin into the braid. An interactive 3D mechanism study, with exposed crossings, prototype fabrication files and bench experiments.</span></a>
+       <a class="tile" href="/meowtext/"><span class="tile-head"><span class="tile-dt">2026-10-12</span><span class="tile-mk">⋆</span><span class="tile-kd">tool</span></span><b class="tile-ti">Meowtext</b><span class="tile-desc">Compare fonts, make ANSI art, and export the animation. Now in the browser as well as Kitty.</span></a>
+       <a class="tile" href="/clitorisophila/"><span class="tile-head"><span class="tile-dt">2026-10-09</span><span class="tile-mk">⋆</span><span class="tile-kd">artwork</span></span><b class="tile-ti">Clitorisophila</b><span class="tile-desc">An imagined clitoris wired to a real fly connectome. Touch the nerves and follow the light: an absurd interactive artwork made with language models.</span></a>
+       <a class="tile" href="/anthonys-fire/projection/"><span class="tile-head"><span class="tile-dt">2026-09-16</span><span class="tile-mk">⋆</span><span class="tile-kd">artwork</span></span><b class="tile-ti">The Projection</b><span class="tile-desc">The real fruit fly connectome, eaten, projected, and played.</span></a>
+--- a/data/updates.json
++++ b/data/updates.json
+@@ -1,4 +1,12 @@
+ [
++  {
++    "date": "2026-10-12",
++    "mark": "⋆",
++    "title": "Braidbench",
++    "desc": "Follow every strand from its moving bobbin into the braid. An interactive 3D mechanism study, with exposed crossings, prototype fabrication files and bench experiments.",
++    "href": "/braidbench/",
++    "category": "project"
++  },
+   {
+     "date": "2026-10-12",
+     "mark": "⋆",

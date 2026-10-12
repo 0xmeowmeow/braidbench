@@ -1,11 +1,11 @@
 {
-  "design_status": "geometrically checked braid reconstruction; finite-wire formation and visible payout/slack routes; physical carrier contact and tension hardware unresolved; deployment awaiting review; see docs/mechanism-audit.html",
+  "design_status": "geometrically checked braid reconstruction; finite-wire formation and visible payout/slack routes; physical carrier contact and tension hardware unresolved; public geometric study; physical qualification outstanding; see docs/mechanism-audit.html",
   "units": "CAD/STL/SVG/DXF mm; GLB metres",
   "files": [
     {
       "path": "OPEN-MODEL.html",
-      "bytes": 8739536,
-      "sha256": "b0155586746e1c0d0dbbbaa3a0fdf703cc8ff0d2599442ca13fbaec226c837a1"
+      "bytes": 8740505,
+      "sha256": "8e344c08c58500cd2dfc2dc9b162475eac599ac0d7a8dccfaef7e5fbb946718a"
     },
     {
       "path": "OPEN-TENSION-TEST.html",
@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5453,
-      "sha256": "f524ca8d18c2e1e3b3913682d4270d8a826c506dcc0a910254ad61947d60e229"
+      "bytes": 5516,
+      "sha256": "575b3b5629260b648d33cb8e007f6970ce42b03e99027411e07c820f42a1b08d"
     },
     {
       "path": "cad/braidbench-12.FCStd",
@@ -74,8 +74,8 @@
     },
     {
       "path": "docs/development.md",
-      "bytes": 4790,
-      "sha256": "f09d3f7fcb579096edb25b16deba30ee2ffd00cdd4f3c9c2621cbe3dcef68b64"
+      "bytes": 4804,
+      "sha256": "1c26f927ad6c6604b9526020e03c0196080d22ca4403eb57825e84be7f494bea"
     },
     {
       "path": "docs/experiment-offline-validation.json",
@@ -99,8 +99,8 @@
     },
     {
       "path": "docs/geometry-validation.json",
-      "bytes": 22325,
-      "sha256": "e2a55166e6f567600924bec1baf0a26242afcb3c242d610bdbd99b82e60ec438"
+      "bytes": 22536,
+      "sha256": "1a58312f35eaf6557a5a14d79905389ec05949567824159384a061ab228cf41c"
     },
     {
       "path": "docs/guide-clearance.json",
@@ -140,12 +140,12 @@
     {
       "path": "docs/mechanism-audit.html",
       "bytes": 17501,
-      "sha256": "271fcefc3d7d26e3e23eb6d3e6644be07136952fcbfd3c744af25be617ce9aeb"
+      "sha256": "fba9a6269c1dfc1e41bd6cfc780084363e4e326833ffebff54b38386cfa7d632"
     },
     {
       "path": "docs/mechanism-audit.pdf",
-      "bytes": 689143,
-      "sha256": "1c82df4d0845b80e1ff9213aa603c8b867b1266a011af0362210363567fc9d31"
+      "bytes": 689327,
+      "sha256": "a5619e7325e50993eca825e4e763bf1a8fd27a2842f854298d2aa691f03f190f"
     },
     {
       "path": "docs/mesh-validation.json",
@@ -464,13 +464,13 @@
     },
     {
       "path": "docs/validation-method.html",
-      "bytes": 11712,
-      "sha256": "eb9876288177791b9870491eb1cf477d22aa9d0ad6611ef26e7285d46cb17353"
+      "bytes": 11773,
+      "sha256": "f9483de48ab8bdb983fa141b8dd5b50285bf73a5c8eb0b4c5224733fdfae39e6"
     },
     {
       "path": "docs/validation-method.pdf",
-      "bytes": 56464,
-      "sha256": "673a48c9b07f1d0117f81bc06d348e8568a7ec3e3f7e46b16c8296a5f6468c07"
+      "bytes": 56482,
+      "sha256": "9aec9541a917bc5c8b39e6318bc2219678ac05b7c359e10973ab914a59932617"
     },
     {
       "path": "docs/wiring.svg",
@@ -1179,8 +1179,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 11248,
-      "sha256": "cac33e6eb86b1eadd18ee0d1c24fccbad9ed6f676d83a50dc1b951e72c7be9c5"
+      "bytes": 12217,
+      "sha256": "e9b5a133053e28304458201a5df34ebd1f0c878b7bc695491c6b9445cbbdd838"
     },
     {
       "path": "models/assembly-12.json",
@@ -1448,6 +1448,11 @@
       "sha256": "a3b126658e342ba6cf238b9e432c7663a6fe549bd90b2465dde3bf21fb70c299"
     },
     {
+      "path": "share/braidbench.jpg",
+      "bytes": 48788,
+      "sha256": "4d3dec2826d9337d43b293db94d19508faeef1fc00e93e86d7d5c09712ce5e0b"
+    },
+    {
       "path": "social/README.md",
       "bytes": 1534,
       "sha256": "076252668f1bab5148f99c5fa5804d4bbad2372ffe2ab3b1427a30f2b55da08e"
@@ -1471,6 +1476,11 @@
       "path": "social/braidbench-tabletop.srt",
       "bytes": 309,
       "sha256": "be7eac69e8b2f18685675eff8e32debbf745b5c89205c755e2fdabbcc2336d65"
+    },
+    {
+      "path": "social/index.html",
+      "bytes": 3404,
+      "sha256": "58b4f0a33c44cff6ca7065f0a7012f9077c29904f4b6588b67b7fa997569ea1f"
     },
     {
       "path": "social/industrial-export.json",
@@ -1546,6 +1556,11 @@
       "path": "tools/check_output_identity.mjs",
       "bytes": 3798,
       "sha256": "b30bec3ffe7e5c9a7f54bef8156dac3bcfa56217366ca6a076eebe504b6a45c9"
+    },
+    {
+      "path": "tools/check_publication.cjs",
+      "bytes": 3746,
+      "sha256": "9f880b7a1b0b00d844f2ef065f9914f107e5864ee38499ac5fde689c51438fa2"
     },
     {
       "path": "tools/check_rendering.cjs",
@@ -1669,8 +1684,13 @@
     },
     {
       "path": "tools/package.py",
-      "bytes": 2059,
-      "sha256": "127626229a030f9142649d12c3a5ee8580e321ba91f11dd16438657dffe3e9a3"
+      "bytes": 2186,
+      "sha256": "70c1525ef9ff4b58c0a743a62734c02658f0dc3cc0a33a38fcc3aab689c5a8b9"
+    },
+    {
+      "path": "tools/prepare_web_publication.py",
+      "bytes": 1598,
+      "sha256": "8e4c12ecf1d7d9fd3a58ed88d2e488685c1f4d101b5bd7b023c3697471ed1383"
     },
     {
       "path": "tools/refresh_track_drawings.py",
