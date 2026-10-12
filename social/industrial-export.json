@@ -1,0 +1,83 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "duration": 18,
+  "frames": 432,
+  "source": "actual Braidbench WebGL scene",
+  "audio": "none",
+  "page_errors": [],
+  "shots": {
+    "tabletop": [
+      {
+        "start": 0,
+        "end": 4,
+        "focus": "track",
+        "phase": 0.45,
+        "rate": 0.65,
+        "zoom": 0.81,
+        "title": "How does motion<br>become a braid?",
+        "caption": "Eight moving bobbins exchange places.",
+        "tag": "08 STRANDS / TABLETOP"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "focus": "bobbin",
+        "phase": 3.0500000000000003,
+        "rate": 0.44,
+        "zoom": 0.85,
+        "title": "Follow the<br>thread.",
+        "caption": "The spool pays out. The dancer stores slack.",
+        "tag": "BOBBIN → GUIDES → BRAID"
+      },
+      {
+        "start": 8,
+        "end": 18,
+        "focus": "formation",
+        "phase": 4.8100000000000005,
+        "rate": 0.3,
+        "zoom": 0.87,
+        "title": "Watch the<br>crossings form.",
+        "caption": "The take-up carries those crossings into the cord.",
+        "tag": "THE FORMING POINT / EXPOSED"
+      }
+    ],
+    "industrial": [
+      {
+        "start": 0,
+        "end": 4,
+        "focus": "track",
+        "phase": 0.35,
+        "rate": 0.4,
+        "zoom": 0.78,
+        "title": "72 carriers.<br>576 wires.",
+        "caption": "Two families of bobbins travel around the core.",
+        "tag": "CABLE OVERBRAID / 72 × 8"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "focus": "bobbin",
+        "phase": 1.9500000000000002,
+        "rate": 0.35,
+        "zoom": 1.05,
+        "roll": -1.5707963267948966,
+        "title": "One bobbin.<br>Eight ends.",
+        "caption": "Separate guides keep the parallel wires ordered.",
+        "tag": "FOLLOW THE SUPPLY"
+      },
+      {
+        "start": 8,
+        "end": 18,
+        "focus": "formation",
+        "phase": 3.35,
+        "rate": 0.24,
+        "zoom": 0.9,
+        "title": "Every wire.<br>Every crossing.",
+        "caption": "Individual paths interlace around the cable core.",
+        "tag": "THE FORMING POINT / EXPOSED"
+      }
+    ]
+  }
+}
