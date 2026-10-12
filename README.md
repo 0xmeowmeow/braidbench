@@ -2,6 +2,8 @@
 
 [Live model](https://meow-meow.io/braidbench/) · [GitHub repository](https://github.com/0xmeowmeow/braidbench) · [Sharing videos and captions](social/README.md) · [Development status](docs/development.md)
 
+Development is paused as of 12 October 2026. [Outstanding work and acceptance evidence](docs/development.md#next-actions-and-acceptance-evidence) are recorded for resumption; the complete buildable machine remains unfinished.
+
 **Mechanism study; not a qualified build.** The close-ups now show compact, solid strands and an exposed formation zone. Every wire retains its moving guide’s crossing partners and over/under order; finite-wire separation is checked in the output and continuously through formation. Payout, return pulleys and moving dancers remain visible. [The audit](docs/mechanism-audit.html) explains the evidence and the unresolved physical mechanism. The website is published as a geometric study.
 
 Original braiding-machine engineering study: 8, 12 and 16 moving strands; laser-cut frame, printed rotors and carriers, ESP32 control.
