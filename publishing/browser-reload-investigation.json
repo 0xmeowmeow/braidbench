@@ -1,0 +1,15 @@
+{
+  "first_attempt": {
+    "result": "timeout",
+    "step": "return to main model at 390 px after both experiments",
+    "timeout_seconds": 30
+  },
+  "independent_mobile_check": {
+    "loaded": true,
+    "horizontal_overflow": false,
+    "page_errors": [],
+    "failed_requests": []
+  },
+  "followup": "Complete live navigation passed on repeat with request diagnostics. The earlier timeout was not reproduced; no application change was required.",
+  "expected_media_abort": "The video request was cancelled when navigating away from the video page after metadata verification."
+}

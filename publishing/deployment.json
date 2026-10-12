@@ -1,0 +1,22 @@
+{
+  "status": "published",
+  "url": "https://meow-meow.io/braidbench/",
+  "videos_url": "https://meow-meow.io/braidbench/social/",
+  "published_source_commit": "7aa0389",
+  "date_utc": "2026-10-12",
+  "local_website_checkout": "/home/meow/data/projects/meow-meow.io",
+  "homepage_and_feed": "updated, existing content preserved",
+  "remote_files_verified": 295,
+  "public_download_sha256": "de0c198611146c78ec71db7a9c1bccb55f4d65dd2e990970e611c942d190e05d",
+  "checks": [
+    "live HTTPS resources and correct JavaScript/video/ZIP MIME types",
+    "homepage card and updates feed",
+    "interactive tabletop formation",
+    "video dimensions and 18-second duration",
+    "both standalone bench experiments",
+    "390 px mobile layout and reload"
+  ],
+  "browser_report": "docs/publication-live-validation.json",
+  "github_repository_visibility": "private, unchanged",
+  "transfer_note": "The whole-private-repository transfer was rejected by automatic approval review and was not executed. The approved alternative fetched only the exact public design-package asset and verified all 295 selected public files."
+}

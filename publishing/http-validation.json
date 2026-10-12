@@ -1,0 +1,50 @@
+[
+  {
+    "path": "",
+    "status": 200,
+    "type": "text/html",
+    "length": "12217"
+  },
+  {
+    "path": "viewer/app.js",
+    "status": 200,
+    "type": "text/javascript",
+    "length": "26276"
+  },
+  {
+    "path": "viewer/motion.mjs",
+    "status": 200,
+    "type": "application/javascript",
+    "length": "3301"
+  },
+  {
+    "path": "models/parts.json",
+    "status": 200,
+    "type": "application/json",
+    "length": "6064971"
+  },
+  {
+    "path": "social/",
+    "status": 200,
+    "type": "text/html",
+    "length": "3404"
+  },
+  {
+    "path": "social/braidbench-tabletop.mp4",
+    "status": 200,
+    "type": "video/mp4",
+    "length": "2907815"
+  },
+  {
+    "path": "social/braidbench-industrial.mp4",
+    "status": 200,
+    "type": "video/mp4",
+    "length": "16974502"
+  },
+  {
+    "path": "braidbench-design-package.zip",
+    "status": 200,
+    "type": "application/zip",
+    "length": "71091088"
+  }
+]

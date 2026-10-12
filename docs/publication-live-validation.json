@@ -1,0 +1,16 @@
+{
+  "status": "pass",
+  "base": "https://meow-meow.io",
+  "homepage_entry": true,
+  "updates_entry": true,
+  "tabletop_formation": true,
+  "videos": {
+    "width": 1080,
+    "height": 1920,
+    "duration": 18
+  },
+  "offline_experiments": true,
+  "mobile_width": 390,
+  "page_errors": [],
+  "failed_resources": []
+}
